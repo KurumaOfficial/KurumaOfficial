@@ -1,6 +1,13 @@
 <h1 align="center">Kuruma</h1>
-<p align="center">web dev • personal projects • constant learning</p>
 
 <p align="center">
-  <a href="https://github.com/Kuruma">GitHub</a>
+  learning, building, improving
+</p>
+
+<p align="center">
+  <img src="./assets/ponyatno.gif" alt="ponyatno" width="420" />
+</p>
+
+<p align="center">
+  <sub>web dev • personal projects • constant learning</sub>
 </p>
