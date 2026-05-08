@@ -1,0 +1,27 @@
+<svg viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .name  { font-family: Georgia,'Times New Roman',serif; font-size:72px; font-weight:300; letter-spacing:-2px; fill:#1d1d1b }
+      .tag   { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; font-size:12px; fill:#666362; letter-spacing:3px }
+      .badge { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; font-size:11px; fill:#d97757; font-weight:600; letter-spacing:1px }
+    </style>
+  </defs>
+  <rect width="900" height="260" fill="#fbfaf5"/>
+  <!-- WeTTeA logo mark centered-top -->
+  <g transform="translate(415,18) scale(0.32)" opacity="0.6">
+    <polyline points="150,140 190,240 240,140 290,240" fill="none" stroke="#d97757" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="300" y1="160" x2="300" y2="240" stroke="#1d1d1b" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+  </g>
+  <!-- Badge centered -->
+  <rect x="330" y="60" width="240" height="28" rx="14" fill="#fff8f5" stroke="#d97757" stroke-width="1" stroke-opacity="0.5"/>
+  <circle cx="350" cy="74" r="4" fill="#d97757"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="450" y="78.5" class="badge" text-anchor="middle">  building in public</text>
+  <!-- Name centered -->
+  <text x="450" y="168" class="name" text-anchor="middle">Kuruma</text>
+  <!-- Tagline centered -->
+  <text x="450" y="200" class="tag" text-anchor="middle">WEB DEV  ·  SYSTEMS  ·  TOOLS</text>
+  <!-- Symmetric accent lines -->
+  <line x1="54" y1="222" x2="390" y2="222" stroke="#e5e4df" stroke-width="1"/>
+  <line x1="510" y1="222" x2="846" y2="222" stroke="#e5e4df" stroke-width="1"/>
+  <circle cx="450" cy="222" r="4" fill="#d97757"/>
+</svg>
