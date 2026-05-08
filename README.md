@@ -72,8 +72,8 @@ Bla bla bla bla bla bla bla.
 ### Статистика / Stats
 
 <div align="center">
-	<img height="160" src="https://github-readme-stats.vercel.app/api?username=KurumaOfficial&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-	<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurumaOfficial&layout=compact&hide_border=true&theme=transparent&langs_count=7" alt="Top languages"/>
+  <img height="160" src="./assets/stats_placeholder.svg" alt="GitHub stats placeholder"/>
+  <img height="160" src="./assets/langs_placeholder.svg" alt="Top languages placeholder"/>
 </div>
 
 ---
