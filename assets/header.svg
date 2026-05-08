@@ -17,7 +17,7 @@
   <rect x="40" y="38" width="8" height="8" fill="#d97757"/>
   <rect x="852" y="38" width="8" height="8" fill="#d97757"/>
   <!-- Name centered -->
-  <text x="450" y="175" class="name" text-anchor="middle">Kuruma</text>
+  <text x="450" y="175" class="name" text-anchor="middle">KurumaOfficial</text>
   <!-- Accent quote -->
   <text x="450" y="210" class="acc" text-anchor="middle">learning · building · improving</text>
   <!-- Sub -->
@@ -28,3 +28,4 @@
   <!-- Orange accent strip -->
   <rect x="40" y="274" width="860" height="3" fill="#d97757" opacity="0.6"/>
 </svg>
+
