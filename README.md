@@ -1,4 +1,4 @@
-﻿<img src="./assets/header.svg" alt="Kuruma" width="100%"/>
+﻿<img src="./assets/header.svg" alt="KurumaOfficial" width="100%"/>
 
 <br/>
 
