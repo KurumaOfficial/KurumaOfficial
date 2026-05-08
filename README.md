@@ -13,9 +13,9 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="60%">
 
 ### Манифест / Manifesto
 
@@ -28,7 +28,7 @@ Bla bla bla bla bla bla. Bla bla bla bla bla bla bla bla bla bla.
 Bla bla bla bla bla bla bla.
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="40%">
 
 ### В цифрах / By numbers
 
@@ -71,8 +71,10 @@ Bla bla bla bla bla bla bla.
 
 ### Статистика / Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KurumaOfficial&show_icons=true&hide_border=true&bg_color=fbfaf5&title_color=1d1d1b&text_color=666362&icon_color=d97757" alt="stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurumaOfficial&layout=compact&hide_border=true&bg_color=fbfaf5&title_color=1d1d1b&text_color=666362&langs_count=7" alt="langs"/>
+<div align="center">
+	<img height="160" src="https://github-readme-stats.vercel.app/api?username=KurumaOfficial&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
+	<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurumaOfficial&layout=compact&hide_border=true&theme=transparent&langs_count=7" alt="Top languages"/>
+</div>
 
 ---
 
