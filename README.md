@@ -72,8 +72,8 @@ Bla bla bla bla bla bla bla.
 ### Статистика / Stats
 
 <div align="center">
-  <img height="160" src="./assets/stats_placeholder.svg" alt="GitHub stats placeholder"/>
-  <img height="160" src="./assets/langs_placeholder.svg" alt="Top languages placeholder"/>
+  <img height="160" src="./assets/stats_compact.svg" alt="GitHub stats compact"/>
+  <img height="160" src="./assets/langs_bars.svg" alt="Top languages bars"/>
 </div>
 
 ---
