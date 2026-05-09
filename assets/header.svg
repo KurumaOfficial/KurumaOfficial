@@ -1,16 +1,16 @@
 ﻿<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .vol  { font-family:-apple-system,sans-serif; font-size:10px; fill:#666362; letter-spacing:4px }
-      .name { font-family: Georgia,'Times New Roman',serif; font-size:90px; font-weight:300; letter-spacing:-4px; fill:#1d1d1b }
-      .sub  { font-family:-apple-system,sans-serif; font-size:11px; fill:#666362; letter-spacing:3px }
+      .vol  { font-family:-apple-system,sans-serif; font-size:10px; fill:#cfcfcf; letter-spacing:4px }
+      .name { font-family: Georgia,'Times New Roman',serif; font-size:90px; font-weight:300; letter-spacing:-4px; fill:#fbfaf5 }
+      .sub  { font-family:-apple-system,sans-serif; font-size:11px; fill:#cfcfcf; letter-spacing:3px }
       .acc  { font-family: Georgia,serif; font-size:16px; fill:#d97757; font-style:italic }
     </style>
   </defs>
-  <rect width="900" height="300" fill="#fbfaf5"/>
+  <rect width="900" height="300" fill="transparent"/>
   <!-- Top ornamental lines -->
-  <line x1="40" y1="28" x2="860" y2="28" stroke="#1d1d1b" stroke-width="2"/>
-  <line x1="40" y1="34" x2="860" y2="34" stroke="#1d1d1b" stroke-width="0.5"/>
+  <line x1="40" y1="28" x2="860" y2="28" stroke="#cfcfcf" stroke-width="1" opacity="0.12" />
+  <line x1="40" y1="34" x2="860" y2="34" stroke="#cfcfcf" stroke-width="0.5" opacity="0.08" />
   <!-- Volume label -->
   <text x="450" y="23" class="vol" text-anchor="middle">GITHUB PROFILE</text>
   <!-- Decorative corners -->
@@ -23,9 +23,9 @@
   <!-- Sub -->
   <text x="450" y="234" class="sub" text-anchor="middle">WEB DEV  ·  SYSTEMS  ·  TOOLS</text>
   <!-- Bottom ornamental lines -->
-  <line x1="40" y1="266" x2="860" y2="266" stroke="#1d1d1b" stroke-width="0.5"/>
-  <line x1="40" y1="272" x2="860" y2="272" stroke="#1d1d1b" stroke-width="2"/>
+  <line x1="40" y1="266" x2="860" y2="266" stroke="#cfcfcf" stroke-width="0.5" opacity="0.08" />
+  <line x1="40" y1="272" x2="860" y2="272" stroke="#cfcfcf" stroke-width="1" opacity="0.12" />
   <!-- Orange accent strip -->
-  <rect x="40" y="274" width="860" height="3" fill="#d97757" opacity="0.6"/>
+  <rect x="40" y="274" width="860" height="3" fill="#d97757" opacity="0.7"/>
 </svg>
 

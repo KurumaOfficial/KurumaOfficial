@@ -71,6 +71,7 @@ Bla bla bla bla bla bla bla.
 
 ### Статистика / Stats
 
+<!-- canonical_langs_bars: https://github.com/KurumaOfficial/KurumaOfficial/blob/main/assets/langs_bars.svg -->
 <div align="center">
   <img height="160" src="./assets/stats_compact.svg" alt="GitHub stats compact"/>
   <img height="160" src="./assets/langs_bars.svg" alt="Top languages bars"/>
