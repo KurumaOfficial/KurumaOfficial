@@ -23,9 +23,9 @@
 
 ---
 
-<table>
+<table style="width:100%; border-collapse:separate; border-spacing:16px 0;">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" style="width:49%; padding:18px; border:1px solid rgba(255,255,255,0.06); border-radius:6px; background:transparent;">
 
 **🇷🇺 О себе**
 
@@ -34,7 +34,7 @@
 Бла бла бла бла бла бла бла бла.
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" style="width:49%; padding:18px; border:1px solid rgba(255,255,255,0.06); border-radius:6px; background:transparent;">
 
 **🇬🇧 About me**
 
@@ -80,19 +80,16 @@ Bla bla bla bla bla bla bla bla.
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <div align="center">
-  <img height="160" src="./assets/stats_compact.svg" alt="GitHub stats"/>
   <img height="160" src="./assets/langs_bars.svg" alt="Top languages"/>
   <br/>
-  <img width="100%" src="https://streak-stats.demolab.com/?user=KurumaOfficial&hide_border=true&background=00000000&ring=d97757&fire=d97757&currStreakLabel=ffffff&sideLabels=999999&dates=999999&stroke=00000000" alt="streak"/>
+  <img height="120" src="./assets/streak_dark.svg" alt="streak"/>
 </div>
 
 ---
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-<a href="https://github.com/KurumaOfficial/wettea">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KurumaOfficial&repo=wettea&hide_border=true&theme=transparent" alt="WeTTeA"/>
-</a>
+Currently: [wettea.dev](https://wettea.dev)
 
 ---
 
