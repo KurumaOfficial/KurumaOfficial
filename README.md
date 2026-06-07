@@ -80,7 +80,7 @@ Building scalable solutions and open-source tools.
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KurumaOfficial&layout=compact&theme=dark&bg_color=00000000&text_color=e6e6e6&title_color=d97757&hide_border=true&langs_count=6" alt="Top languages"/>
+  <img height="160" src="./assets/langs_bars.svg" alt="Top languages"/>
 </div>
 
 ---

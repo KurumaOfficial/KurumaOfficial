@@ -1,27 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 160" width="720" height="160">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" width="720" height="200">
   <rect width="100%" height="100%" fill="transparent" rx="8"/>
   <g transform="translate(18,18)">
     <text x="0" y="18" font-family="Georgia, serif" font-size="18" fill="#e6e6e6">Top languages</text>
     <g transform="translate(0,36)">
       <g transform="translate(0,0)">
-        <text x="0" y="14" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#bdbdbd">Java</text>
-        <rect x="70" y="0" width="520" height="16" rx="6" fill="#222428"/>
-        <rect x="70" y="0" width="420" height="16" rx="6" fill="#d97757"/>
+        <text x="0" y="14" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#bdbdbd">Rust</text>
+        <rect x="100" y="0" width="520" height="16" rx="6" fill="#222428"/>
+        <rect x="100" y="0" width="460" height="16" rx="6" fill="#d97757"/>
       </g>
       <g transform="translate(0,28)">
-        <text x="0" y="14" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#bdbdbd">Rust</text>
-        <rect x="70" y="0" width="520" height="16" rx="6" fill="#222428"/>
-        <rect x="70" y="0" width="360" height="16" rx="6" fill="#d97757"/>
+        <text x="0" y="14" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#bdbdbd">Go</text>
+        <rect x="100" y="0" width="520" height="16" rx="6" fill="#222428"/>
+        <rect x="100" y="0" width="400" height="16" rx="6" fill="#d97757"/>
       </g>
       <g transform="translate(0,56)">
         <text x="0" y="14" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#bdbdbd">Python</text>
-        <rect x="70" y="0" width="520" height="16" rx="6" fill="#222428"/>
-        <rect x="70" y="0" width="320" height="16" rx="6" fill="#d97757"/>
+        <rect x="100" y="0" width="520" height="16" rx="6" fill="#222428"/>
+        <rect x="100" y="0" width="350" height="16" rx="6" fill="#d97757"/>
       </g>
       <g transform="translate(0,84)">
-        <text x="0" y="14" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#bdbdbd">JavaScript</text>
-        <rect x="100" y="0" width="490" height="16" rx="6" fill="#222428"/>
-        <rect x="100" y="0" width="260" height="16" rx="6" fill="#d97757"/>
+        <text x="0" y="14" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#bdbdbd">TypeScript</text>
+        <rect x="100" y="0" width="520" height="16" rx="6" fill="#222428"/>
+        <rect x="100" y="0" width="310" height="16" rx="6" fill="#d97757"/>
+      </g>
+      <g transform="translate(0,112)">
+        <text x="0" y="14" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#bdbdbd">Java</text>
+        <rect x="100" y="0" width="520" height="16" rx="6" fill="#222428"/>
+        <rect x="100" y="0" width="280" height="16" rx="6" fill="#d97757"/>
+      </g>
+      <g transform="translate(0,140)">
+        <text x="0" y="14" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#bdbdbd">Kotlin</text>
+        <rect x="100" y="0" width="520" height="16" rx="6" fill="#222428"/>
+        <rect x="100" y="0" width="240" height="16" rx="6" fill="#d97757"/>
       </g>
     </g>
   </g>
