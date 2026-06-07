@@ -81,8 +81,6 @@ Building scalable solutions and open-source tools.
 
 <div align="center">
   <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KurumaOfficial&layout=compact&theme=dark&bg_color=00000000&text_color=e6e6e6&title_color=d97757&hide_border=true&langs_count=6" alt="Top languages"/>
-  <br/>
-  <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=KurumaOfficial&theme=dark&background=00000000&ring=d97757&fire=d97757&currStreakLabel=e6e6e6&sideLabels=e6e6e6&currStreakNum=fbfaf5&sideNums=fbfaf5&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
