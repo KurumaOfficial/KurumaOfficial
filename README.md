@@ -7,19 +7,13 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/-Telegram-1d1d1b?style=for-the-badge&logo=telegram&logoColor=d97757)](https://t.me/KurumaOfficial)
 [![Website](https://img.shields.io/badge/-wettea.dev-1d1d1b?style=for-the-badge&logo=safari&logoColor=d97757)](https://wettea.dev)
-[![Email](https://img.shields.io/badge/-hi@wettea.dev-1d1d1b?style=for-the-badge&logo=gmail&logoColor=d97757)](mailto:hi@wettea.dev)
 
 ![visitors](https://komarev.com/ghpvc/?username=KurumaOfficial&color=d97757&style=flat-square&label=profile+views)
 
 </div>
 
 ---
-
-<div align="center"><sub>Designed for dark background — this README is optimized for dark site backgrounds.</sub></div>
-
-<br/>
 
 ---
 
@@ -29,18 +23,18 @@
 
 **🇷🇺 О себе**
 
-Бла бла бла. Бла бла бла бла бла бла бла бла.  
-Бла бла бла бла бла. Бла бла бла бла бла бла бла бла бла.  
-Бла бла бла бла бла бла бла бла.
+Разработчик с фокусом на backend системы и инфраструктуру.  
+Работаю с Java, Rust, Python, Go и современным стеком технологий.  
+Создаю масштабируемые решения и open-source инструменты.
 
 </td>
 <td valign="top" style="width:49%; padding:18px; border:1px solid rgba(255,255,255,0.06); border-radius:6px; background:transparent;">
 
 **🇬🇧 About me**
 
-Bla bla bla. Bla bla bla bla bla bla bla bla.  
-Bla bla bla bla bla. Bla bla bla bla bla bla bla bla bla.  
-Bla bla bla bla bla bla bla bla.
+Developer focused on backend systems and infrastructure.  
+Working with Java, Rust, Python, Go and modern tech stack.  
+Building scalable solutions and open-source tools.
 
 </td>
 </tr>
@@ -80,9 +74,9 @@ Bla bla bla bla bla bla bla bla.
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <div align="center">
-  <img height="160" src="./assets/langs_bars.svg" alt="Top languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurumaOfficial&layout=compact&theme=dark&bg_color=00000000&text_color=e6e6e6&title_color=d97757&hide_border=true&langs_count=6" alt="Top languages"/>
   <br/>
-  <img height="120" src="./assets/streak_dark.svg" alt="streak"/>
+  <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=KurumaOfficial&theme=dark&background=00000000&ring=d97757&fire=d97757&currStreakLabel=e6e6e6&sideLabels=e6e6e6&currStreakNum=fbfaf5&sideNums=fbfaf5&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -95,11 +89,9 @@ Currently: [wettea.dev](https://wettea.dev)
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/-Telegram-1d1d1b?style=flat-square&logo=telegram&logoColor=d97757)](https://t.me/KurumaOfficial)
 [![Website](https://img.shields.io/badge/-wettea.dev-1d1d1b?style=flat-square&logo=safari&logoColor=d97757)](https://wettea.dev)
-[![Email](https://img.shields.io/badge/-Email-1d1d1b?style=flat-square&logo=gmail&logoColor=d97757)](mailto:hi@wettea.dev)
 
-<sub>© KurumaOfficial · WeTTeA</sub>
+<sub>© Kuruma · WeTTeA</sub>
 
 </div>
 

@@ -17,11 +17,9 @@
   <rect x="40" y="38" width="8" height="8" fill="#d97757"/>
   <rect x="852" y="38" width="8" height="8" fill="#d97757"/>
   <!-- Name centered -->
-  <text x="450" y="175" class="name" text-anchor="middle">KurumaOfficial</text>
+  <text x="450" y="175" class="name" text-anchor="middle">Kuruma</text>
   <!-- Accent quote -->
   <text x="450" y="210" class="acc" text-anchor="middle">learning · building · improving</text>
-  <!-- Sub -->
-  <text x="450" y="234" class="sub" text-anchor="middle">WEB DEV  ·  SYSTEMS  ·  TOOLS</text>
   <!-- Bottom ornamental lines -->
   <line x1="40" y1="266" x2="860" y2="266" stroke="#cfcfcf" stroke-width="0.5" opacity="0.08" />
   <line x1="40" y1="272" x2="860" y2="272" stroke="#cfcfcf" stroke-width="1" opacity="0.12" />
