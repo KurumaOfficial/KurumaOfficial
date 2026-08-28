@@ -13,7 +13,7 @@
 > Developer focused on **backend systems** and **infrastructure**.
 > Building scalable solutions and pragmatic open-source projects.
 
-**Stack:** Kotlin · Rust · Go · Python · PostgreSQL · Docker · Redis · Kafka · gRPC · AWS · GitHub Actions
+**Stack:** Kotlin · Rust · Go · Python · PostgreSQL · Docker · Redis · Kafka · gRPC
 
 ---
 
