@@ -1,13 +1,12 @@
 <svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .bg   { fill:#1d1d1b }
       .vol  { font-family:-apple-system,sans-serif; font-size:10px; fill:#cfcfcf; letter-spacing:4px }
       .name { font-family: Georgia,'Times New Roman',serif; font-size:88px; font-weight:300; letter-spacing:-4px; fill:#fbfaf5 }
       .acc  { font-family: Georgia,serif; font-size:16px; fill:#d97757; font-style:italic }
     </style>
   </defs>
-  <rect x="0" y="0" width="900" height="300" rx="14" class="bg"/>
+  <rect width="900" height="300" fill="transparent"/>
   <line x1="60" y1="40" x2="840" y2="40" stroke="#cfcfcf" stroke-width="1" opacity="0.12" />
   <line x1="60" y1="46" x2="840" y2="46" stroke="#cfcfcf" stroke-width="0.5" opacity="0.08" />
   <text x="450" y="36" class="vol" text-anchor="middle">GITHUB PROFILE</text>
