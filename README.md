@@ -22,9 +22,9 @@
 ---
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/website-1d1d1b?style=flat-square&logo=safari&logoColor=d97757" alt="Website"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/telegram-1d1d1b?style=flat-square&logo=telegram&logoColor=d97757" alt="Telegram"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/email-1d1d1b?style=flat-square&logo=gmail&logoColor=d97757" alt="Email"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-1d1d1b?logo=safari&logoColor=d97757&style=flat-square" alt="Website"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-1d1d1b?logo=telegram&logoColor=d97757&style=flat-square" alt="Telegram"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-1d1d1b?logo=gmail&logoColor=d97757&style=flat-square" alt="Email"/></a>
 </p>
 
 <p align="center">
