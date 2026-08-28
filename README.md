@@ -1,4 +1,4 @@
-﻿<img src="./assets/header.svg" alt="Kuruma" width="100%"/>
+﻿<img src="./assets/banner.svg" alt="Kuruma" width="100%"/>
 
 <p align="center">
   <em>Backend &amp; Infrastructure · Scalable systems &amp; open-source</em>
