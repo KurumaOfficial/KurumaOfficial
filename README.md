@@ -1,6 +1,6 @@
 ﻿<img src="./assets/banner.svg" alt="Kuruma" width="100%"/>
 
-<img src="./assets/divider.svg" alt="About Kuruma" width="100%"/>
+<img src="./assets/snow.gif" alt="snow" width="100%"/>
 
 <p align="center">
   <em>Backend &amp; Infrastructure · Scalable systems &amp; open-source</em>
