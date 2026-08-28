@@ -2,8 +2,6 @@
   <rect width="900" height="900" fill="transparent"/>
   <line x1="60" y1="28" x2="840" y2="28" stroke="#cfcfcf" stroke-width="1" opacity="0.12"/>
   <line x1="60" y1="34" x2="840" y2="34" stroke="#cfcfcf" stroke-width="0.5" opacity="0.08"/>
-  <rect x="60" y="44" width="8" height="8" fill="#d97757"/>
-  <rect x="832" y="44" width="8" height="8" fill="#d97757"/>
   <line x1="60" y1="866" x2="840" y2="866" stroke="#cfcfcf" stroke-width="0.5" opacity="0.08"/>
   <line x1="60" y1="872" x2="840" y2="872" stroke="#cfcfcf" stroke-width="1" opacity="0.12"/>
   <rect x="60" y="874" width="780" height="3" fill="#d97757" opacity="0.7"/>
