@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://wettea.xyz"><img src="https://img.shields.io/badge/Wettea-1d1d1b?style=for-the-badge&logo=safari&logoColor=d97757" alt="Wettea"/></a><br/>
-  <a href="https://aleph.icu"><img src="https://img.shields.io/badge/Aleph_Studio-1d1d1b?style=for-the-badge&logo=nucleo&logoColor=d97757" alt="Aleph Studio"/></a><br/>
-  <a href="#"><img src="https://img.shields.io/badge/Holo_Project-1d1d1b?style=for-the-badge&logo=satellite&logoColor=d97757" alt="Holo Project"/></a>
+  <a href="https://wettea.xyz"><img src="https://img.shields.io/badge/Wettea-1d1d1b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Q5Nzc1NyIgZD0iTTMgM2g0bDUgMTQgNS0xNGg0TDE2IDIxSDhMMyAzeiIvPjwvc3ZnPg==&style=for-the-badge" alt="Wettea"/></a><br/>
+  <a href="https://aleph.icu"><img src="https://img.shields.io/badge/Aleph_Studio-1d1d1b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMy41IiB5PSIzLjUiIHdpZHRoPSIxNyIgaGVpZ2h0PSIxNyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDk3NzU3IiBzdHJva2Utd2lkdGg9IjIuNSIvPjwvc3ZnPg==&style=for-the-badge" alt="Aleph Studio"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/Holo_Project-1d1d1b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDMgMjIgMjFIMloiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2Q5Nzc1NyIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=&style=for-the-badge" alt="Holo Project"/></a>
 </p>
 
 ---
