@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wettea.xyz"><img src="https://img.shields.io/badge/Wettea-1d1d1b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Q5Nzc1NyIgZD0iTTIuNSAzaDMuNWw1IDE1IDUtMTVoMy41bC01LjUgMThoLTZMMi41IDN6Ii8+PC9zdmc+&style=for-the-badge" alt="Wettea"/></a><br/>
+  <a href="https://wettea.xyz"><img src="https://img.shields.io/badge/Wettea-1d1d1b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTMuNSAzLjUgOCAyMCAxMiA5LjUgMTYgMjAgMjAuNSAzLjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2Q5Nzc1NyIgc3Ryb2tlLXdpZHRoPSI0LjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg==&style=for-the-badge" alt="Wettea"/></a><br/>
   <a href="https://aleph.icu"><img src="https://img.shields.io/badge/Aleph_Studio-1d1d1b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMy41IiB5PSIzLjUiIHdpZHRoPSIxNyIgaGVpZ2h0PSIxNyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDk3NzU3IiBzdHJva2Utd2lkdGg9IjIuNSIvPjwvc3ZnPg==&style=for-the-badge" alt="Aleph Studio"/></a><br/>
   <a href="#"><img src="https://img.shields.io/badge/Holo_Project-1d1d1b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDMgMjIgMjFIMloiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2Q5Nzc1NyIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=&style=for-the-badge" alt="Holo Project"/></a>
 </p>
