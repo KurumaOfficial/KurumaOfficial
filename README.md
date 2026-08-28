@@ -4,10 +4,10 @@
   <em>Backend &amp; Infrastructure · Scalable systems &amp; open-source</em>
 </p>
 
-<p align="center" style="font-size:15px; font-weight:600; line-height:1.9;">
-  <a href="https://wettea.xyz" style="color:d97757;">Wettea</a><br/>
-  <a href="https://aleph.icu" style="color:d97757;">Aleph Studio</a><br/>
-  <a href="#" style="color:d97757;">Holo Project</a>
+<p align="center">
+  <a href="https://wettea.xyz"><img src="https://img.shields.io/badge/Wettea-1d1d1b?style=for-the-badge&logo=safari&logoColor=d97757" alt="Wettea"/></a><br/>
+  <a href="https://aleph.icu"><img src="https://img.shields.io/badge/Aleph_Studio-1d1d1b?style=for-the-badge&logo=nucleo&logoColor=d97757" alt="Aleph Studio"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/Holo_Project-1d1d1b?style=for-the-badge&logo=satellite&logoColor=d97757" alt="Holo Project"/></a>
 </p>
 
 ---
