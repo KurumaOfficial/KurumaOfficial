@@ -1,23 +1,10 @@
-<svg viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="560" fill="transparent"/>
+<svg viewBox="0 0 900 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" fill="transparent"/>
   <line x1="60" y1="28" x2="840" y2="28" stroke="#cfcfcf" stroke-width="1" opacity="0.12"/>
   <line x1="60" y1="34" x2="840" y2="34" stroke="#cfcfcf" stroke-width="0.5" opacity="0.08"/>
   <rect x="60" y="44" width="8" height="8" fill="#d97757"/>
   <rect x="832" y="44" width="8" height="8" fill="#d97757"/>
-  <text x="450" y="30" font-family="-apple-system,sans-serif" font-size="10px" fill="#cfcfcf" letter-spacing="4px" text-anchor="middle">ABOUT</text>
-  <text x="450" y="100" font-family="Georgia,'Times New Roman',serif" font-size="28px" font-weight="300" fill="#fbfaf5" text-anchor="middle">Backend systems &amp; infrastructure developer</text>
-  <text x="450" y="136" font-family="-apple-system,sans-serif" font-size="14px" fill="#cfcfcf" text-anchor="middle">Building scalable solutions and pragmatic open-source projects.</text>
-
-  <line x1="60" y1="180" x2="840" y2="180" stroke="#cfcfcf" stroke-width="0.5" opacity="0.08"/>
-
-  <text x="450" y="220" font-family="-apple-system,sans-serif" font-size="10px" fill="#cfcfcf" letter-spacing="4px" text-anchor="middle">STACK</text>
-
-  <text x="450" y="300" font-family="Georgia,'Times New Roman',serif" font-size="34px" font-weight="300" fill="#fbfaf5" text-anchor="middle">Kotlin · Rust · Go</text>
-  <text x="450" y="350" font-family="Georgia,'Times New Roman',serif" font-size="34px" font-weight="300" fill="#fbfaf5" text-anchor="middle">Python · PostgreSQL</text>
-
-  <rect x="60" y="420" width="8" height="8" fill="#d97757"/>
-  <rect x="832" y="420" width="8" height="8" fill="#d97757"/>
-  <line x1="60" y1="500" x2="840" y2="500" stroke="#cfcfcf" stroke-width="0.5" opacity="0.08"/>
-  <line x1="60" y1="506" x2="840" y2="506" stroke="#cfcfcf" stroke-width="1" opacity="0.12"/>
-  <rect x="60" y="508" width="780" height="3" fill="#d97757" opacity="0.7"/>
+  <line x1="60" y1="866" x2="840" y2="866" stroke="#cfcfcf" stroke-width="0.5" opacity="0.08"/>
+  <line x1="60" y1="872" x2="840" y2="872" stroke="#cfcfcf" stroke-width="1" opacity="0.12"/>
+  <rect x="60" y="874" width="780" height="3" fill="#d97757" opacity="0.7"/>
 </svg>
