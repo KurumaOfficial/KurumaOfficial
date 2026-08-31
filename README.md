@@ -2,18 +2,7 @@
 
 <table style="border-collapse:separate; border-spacing:0 0;"><tr>
   <td width="40%" valign="middle" align="center" style="background:#0d1117; padding:12px 14px 12px 0;">
-    <div align="left" style="font-family:Georgia,'Times New Roman',serif; font-size:34px; font-weight:300; color:#fbfaf5; margin-bottom:2px;">About me</div>
-    <div align="left" style="width:52px; height:3px; background:#d97757; margin-bottom:10px;"></div>
-    <div align="left" style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; font-size:15px; color:#8b949e; line-height:2.0;">1.<br/>2.<br/>3.<br/>4.<br/>5.<br/>6.<br/>7.<br/>8.</div>
-    <div align="left" style="width:100%; height:1px; background:#30363d; margin:14px 0;"></div>
-    <div align="left" style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; font-size:15px; color:#d97757; font-weight:600; margin-bottom:8px;">Tech Stack</div>
-    <div align="left" style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; font-size:13px; color:#8b949e; line-height:1.8;">
-      <strong style="color:#fbfaf5;">Languages:</strong> Kotlin · Rust · Go · Python<br/>
-      <strong style="color:#fbfaf5;">Data:</strong> PostgreSQL · Redis<br/>
-      <strong style="color:#fbfaf5;">Infra:</strong> Docker · Kafka · gRPC
-    </div>
-    <div align="left" style="width:100%; height:1px; background:#30363d; margin:14px 0;"></div>
-    <div align="left" style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; font-size:15px; color:#8b949e; line-height:2.0;">9.<br/>10.<br/>11.<br/>12.<br/>13.<br/>14.<br/>15.</div>
+    <div align="left" style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; font-size:15px; color:#8b949e; line-height:2.0;">1.<br/>2.<br/>3.<br/>4.<br/>5.<br/>6.<br/>7.<br/>8.<br/>9.<br/>10.<br/>11.<br/>12.<br/>13.<br/>14.<br/>15.<br/>16.<br/>17.<br/>18.<br/>19.<br/>20.<br/>21.<br/>22.<br/>23.<br/>24.<br/>25.<br/>26.<br/>27.<br/>28.<br/>29.<br/>30.</div>
   </td>
   <td width="60%" valign="middle" align="center" style="padding:12px 0 12px 14px;">
     <img src="./assets/snow_bg7.gif" alt="snow" width="100%"/>
