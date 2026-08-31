@@ -1,9 +1,9 @@
 ﻿<table><tr>
-  <td width="60%" valign="middle" align="center" style="background:#0d1117;">
+  <td width="40%" valign="middle" align="center" style="background:#0d1117;">
     <div style="font-family:Georgia,'Times New Roman',serif; font-size:64px; font-weight:300; letter-spacing:-2px; color:#fbfaf5;">Kuruma</div>
     <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; font-size:16px; color:#8b949e;">Backend &amp; Infrastructure &#8212; scalable systems &amp; open-source</div>
   </td>
-  <td width="40%" valign="middle" align="center">
+  <td width="60%" valign="middle" align="center">
     <img src="./assets/snow_bg5.gif" alt="snow" width="100%"/>
   </td>
 </tr></table>
