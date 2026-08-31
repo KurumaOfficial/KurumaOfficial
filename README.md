@@ -2,8 +2,6 @@
 
 <table><tr>
   <td width="50%" valign="middle" align="center" style="background:#0d1117; padding:0 8px 0 0;">
-    <div style="font-family:Georgia,'Times New Roman',serif; font-size:48px; font-weight:300; letter-spacing:-2px; color:#fbfaf5;">Kuruma</div>
-    <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; font-size:15px; color:#d97757; margin:2px 0 12px 0;">Backend &amp; Infrastructure</div>
     <div align="left" style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; font-size:13px; color:#8b949e; line-height:1.5; max-width:440px;">Developer focused on <strong style="color:#fbfaf5;">backend systems</strong> and <strong style="color:#fbfaf5;">infrastructure</strong>. Building scalable solutions and pragmatic open-source projects.</div>
     <div align="left" style="margin-top:12px; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; font-size:12px; color:#8b949e; line-height:1.6;">
       <strong style="color:#fbfaf5;">Stack:</strong><br/>
