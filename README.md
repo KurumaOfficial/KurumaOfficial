@@ -1,4 +1,6 @@
-﻿<table><tr>
+﻿<img src="./assets/banner.svg" alt="Kuruma" width="100%"/>
+
+<table><tr>
   <td width="10%" valign="middle" align="center" style="background:#0d1117;">
     <div style="font-family:Georgia,'Times New Roman',serif; font-size:64px; font-weight:300; letter-spacing:-2px; color:#fbfaf5;">Kuruma</div>
     <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; font-size:16px; color:#8b949e;">Backend &amp; Infrastructure &#8212; scalable systems &amp; open-source</div>
