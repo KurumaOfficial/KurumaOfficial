@@ -14,7 +14,7 @@
     </div>
   </td>
   <td width="50%" valign="middle" align="center" style="padding:12px 0 12px 14px;">
-    <img src="./assets/snow_bg5.gif" alt="snow" width="100%"/>
+    <img src="./assets/snow_bg6.gif" alt="snow" width="100%"/>
   </td>
 </tr></table>
 
