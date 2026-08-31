@@ -1,7 +1,7 @@
 ﻿<img src="./assets/banner.svg" alt="Kuruma" width="100%"/>
 
 <table style="border-collapse:separate; border-spacing:0 0;"><tr>
-  <td width="50%" valign="middle" align="center" style="background:#0d1117; padding:12px 14px 12px 0;">
+  <td width="40%" valign="middle" align="center" style="background:#0d1117; padding:12px 14px 12px 0;">
     <div align="left" style="font-family:Georgia,'Times New Roman',serif; font-size:34px; font-weight:300; color:#fbfaf5; margin-bottom:2px;">About me</div>
     <div align="left" style="width:52px; height:3px; background:#d97757; margin-bottom:10px;"></div>
     <div align="left" style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; font-size:14px; color:#8b949e; line-height:1.6; max-width:440px;">Developer focused on <strong style="color:#fbfaf5;">backend systems</strong> and <strong style="color:#fbfaf5;">infrastructure</strong>.<br/>Building scalable solutions and pragmatic open-source projects for real-world use.</div>
@@ -13,7 +13,7 @@
       <strong style="color:#fbfaf5;">Infra:</strong> Docker · Kafka · gRPC
     </div>
   </td>
-  <td width="50%" valign="middle" align="center" style="padding:12px 0 12px 14px;">
+  <td width="60%" valign="middle" align="center" style="padding:12px 0 12px 14px;">
     <img src="./assets/snow_bg7.gif" alt="snow" width="100%"/>
   </td>
 </tr></table>
