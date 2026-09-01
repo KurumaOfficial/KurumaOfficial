@@ -142,7 +142,7 @@
 </details>
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary><b>📃 Resume</b></summary>
 
 ## Education
 
@@ -198,8 +198,8 @@
 
 </details>
 
-<details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+<details>
+  <summary><b>📊 Stats and Activity</b></summary>
 
   <h3>🔥 Streak Stats</h3>
 
