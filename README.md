@@ -6,12 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://wettea.xyz"><img src="https://img.shields.io/badge/Wettea-1d1d1b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTMuNSAzLjUgOCAyMCAxMiA5LjUgMTYgMjAgMjAuNSAzLjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2Q5Nzc1NyIgc3Ryb2tlLXdpZHRoPSI0LjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg==&logoColor=d97757" alt="Wettea"/></a>
-  <a href="https://aleph.icu"><img src="https://img.shields.io/badge/Aleph%20Studio-1d1d1b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMy41IiB5PSIzLjUiIHdpZHRoPSIxNyIgaGVpZ2h0PSIxNyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDk3NzU3IiBzdHJva2Utd2lkdGg9IjIuNSIvPjwvc3ZnPg==&logoColor=d97757" alt="Aleph Studio"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Holo%20Project-1d1d1b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDMgMjIgMjFIMloiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2Q5Nzc1NyIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=&logoColor=d97757" alt="Holo Project"/></a>
-</p>
-
 <table style="border-collapse:separate; border-spacing:0 0;">
   <tr>
     <td width="42%" valign="middle" align="left" style="background:#0d1117; padding:16px 18px; border-radius:8px;">
@@ -207,6 +201,12 @@
 </details>
 
 ---
+
+<p align="center">
+  <a href="https://wettea.xyz"><img src="https://img.shields.io/badge/-1d1d1b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTMuNSAzLjUgOCAyMCAxMiA5LjUgMTYgMjAgMjAuNSAzLjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2Q5Nzc1NyIgc3Ryb2tlLXdpZHRoPSI0LjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg==&style=flat-square" alt="Wettea"/></a>
+  <a href="https://aleph.icu"><img src="https://img.shields.io/badge/-1d1d1b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMy41IiB5PSIzLjUiIHdpZHRoPSIxNyIgaGVpZ2h0PSIxNyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDk3NzU3IiBzdHJva2Utd2lkdGg9IjIuNSIvPjwvc3ZnPg==&style=flat-square" alt="Aleph Studio"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-1d1d1b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDMgMjIgMjFIMloiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2Q5Nzc1NyIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=&style=flat-square" alt="Holo Project"/></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KurumaOfficial&color=d97757&style=flat-square&label=profile+views" alt="Profile views"/>
