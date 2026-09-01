@@ -142,31 +142,46 @@
 </details>
 
 <details>
-  <summary><b>📃 Experience & Focus</b></summary>
-  <br/>
+  <summary>📃 Resume</summary>
 
-<img align="right" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+## Education
+
+- 📖 **Information Technology & Software Engineering**\
+  📆 2026 - 2030\
+  📍 **Sentrum videregående skole** - Kongsvinger, Norway
+
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
 
 - 👨‍💻 **Backend & Systems Developer**\
-  📆 2023 - Present\
-  📍 **Wettea Ecosystem**
-  - Designed and deployed scalable authentication and authorization services (`WetID`).
-  - Implemented high-throughput media streaming and transcoding solutions.
-  - Architected database schemas and migration workflows for zero-downtime releases.
+  📆 2024 - Present\
+  📍 **Wettea Ecosystem** - Remote
+  - Designed and deployed scalable authentication & identity services (`WetID`).
+  - Architected PostgreSQL database schemas and automated migrations.
 
 <br/>
 
-<img align="right" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 
-- 🛠️ **Infrastructure & DevOps Engineering**\
-  📆 2024 - Present\
-  📍 **Cloud & Self-Hosted Clusters**
-  - Built automated CI/CD pipelines with GitHub Actions and containerization.
-  - Configured edge security, WAF and reverse proxies via Cloudflare & Nginx.
+- 👨‍💻 **Core Developer**\
+  📆 2023 - Present\
+  📍 **Delta Media & Open-Source** - Remote
+  - High-throughput media portal recode & client backend daemon.
+  - Containerized deployment workflows and microservices.
+
+<br/>
+
+<img align="right" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
+
+- 🛠️ **Infrastructure & Systems Engineer**\
+  📆 2023 - Present\
+  📍 **Aleph Studio & Self-Hosted Clusters** - Remote
+  - Multi-node cluster configuration, edge routing, and Cloudflare security.
 
 </details>
 
@@ -183,20 +198,32 @@
 
 </details>
 
-<details>
-  <summary><b>📊 Stats & Activity</b></summary>
-  <br/>
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KurumaOfficial&theme=monokai-metallian&hide_border=true&border_radius=6&background=0d1117&ring=d97757&fire=d97757&currStreakLabel=d97757" alt="Streak Stats" />
-  </a>
-</p>
+  <h3>🔥 Streak Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KurumaOfficial&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=d97757&icon_color=d97757&text_color=c9d1d9" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurumaOfficial&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=d97757&text_color=c9d1d9" height="175" alt="Top Languages" />
-</p>
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile" alt="Kuruma's streak" src="https://streak-stats.demolab.com/?user=KurumaOfficial&theme=monokai-metallian&hide_border=true&border_radius=6&background=0d1117&ring=d97757&fire=d97757&currStreakLabel=d97757"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kuruma's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=KurumaOfficial&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=d97757&icon_color=d97757&text_color=c9d1d9" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kuruma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurumaOfficial&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=d97757&text_color=c9d1d9&hide=Jupyter%20Notebook" height="192px"/></a>
+  </p>
+
+  <h3>📈 Activity Graph</h3>
+
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <p align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Kuruma's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=KurumaOfficial&bg_color=0d1117&color=d97757&line=d97757&point=FFFFFF&area=true&hide_border=true" /></a>
+  </p>
 
 </details>
 
