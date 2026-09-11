@@ -237,13 +237,6 @@
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Kuruma's Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KurumaOfficial&theme=github_dark&utcOffset=2" /></a>
   </p>
 
-  <h3>⚡ Recent Activity</h3>
-
-  <!-- https://github.com/Readme-Workflows/recent-activity -->
-  <!--RECENT_ACTIVITY:start-->
-  <!--RECENT_ACTIVITY:end-->
-  <!--RECENT_ACTIVITY:last_update-->
-
 </details>
 
 ---
