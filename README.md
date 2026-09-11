@@ -219,6 +219,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-ED8626?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockbench-0969DA?style=for-the-badge&logo=blockbench&logoColor=white" />
 </p>
 
 <p align="center">
