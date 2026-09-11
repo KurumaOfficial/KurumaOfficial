@@ -164,11 +164,10 @@
 <img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
 
-- 👨‍💻 **Freelance Backend Developer**\
-  📆 2026 - Present\
+- 👨‍💻 **Freelance Developer**\
+  📆 2026 - ???\
   📍 **Custom Orders** - Remote
-  - Media partnership & moderation portal for Delta Client (300k+ users): key-based auth, Telegram 2FA with GPS, USDT payouts.
-  - Go (Fiber) services with SQLite / PostgreSQL, vanilla JS glassmorphic SPA, chunked uploads for large evidence files.
+  - Delta Media,
 
 </details>
 
