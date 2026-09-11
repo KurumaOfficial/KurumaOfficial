@@ -162,7 +162,7 @@
 | Проект | Описание | Стек | Статус / Репозиторий |
 | :--- | :--- | :--- | :--- |
 | **[Delta Media](https://github.com/KurumaOfficial/Delta-Media)** | Портал медиа-партнёрства и модерации для Delta Client: вход по ключам, Telegram 2FA с GPS, USDT-выплаты через CryptoBot. | `Go` `Fiber` `PostgreSQL` `Telegram API` | [![Stars](https://img.shields.io/github/stars/KurumaOfficial/Delta-Media?style=flat-square&color=d97757)](https://github.com/KurumaOfficial/Delta-Media) |
-| **[Strange Visuals](https://github.com/KurumaOfficial/Strange-Visuals)** | Оживший заброшенный визуальный мод для Minecraft Fabric (1.21.8): система плащей, клиентский рендер, Java 21. | `Java` `Fabric` `Gradle` | [![Stars](https://img.shields.io/github/stars/KurumaOfficial/Strange-Visuals?style=flat-square&color=d97757)](https://github.com/KurumaOfficial/Strange-Visuals) |
+| **[Strange Visuals](https://github.com/KurumaOfficial/Strange-Visuals)** | Оживший заброшенный визуальный мод для Minecraft Fabric (1.21.8): отрефакторенный легаси-код, сборка на Gradle, Java 21. | `Java` `Fabric` `Gradle` | [![Stars](https://img.shields.io/github/stars/KurumaOfficial/Strange-Visuals?style=flat-square&color=d97757)](https://github.com/KurumaOfficial/Strange-Visuals) |
 
 </details>
 
