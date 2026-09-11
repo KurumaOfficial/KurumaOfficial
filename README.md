@@ -10,16 +10,32 @@
   <tr>
     <td width="42%" valign="middle" align="left" style="background:#0d1117; padding:16px 18px; border-radius:8px;">
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:15px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;">━━━━✦ ENGLISH ✦━━━━</span>
-      <p style="margin:8px 0; font-size:13px; line-height:1.5; color:#c9d1d9;">
-        • Focused on <b>scalable backend systems</b> and infrastructure.<br/>
-        • Architecting distributed services, high-throughput pipelines & security.<br/>
-        • Crafting pragmatic open-source solutions.
+      <p style="margin:8px 0; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
+        • Contract work. Full-time hire only if salary starts with e.<br/>
+        • I hate Microsoft. I love money very much.<br/>
+        • Rules are simple: one fuck-up — two teeth gone, motherfucker. No excuses.<br/>
+        • Love monotonous and boring work, my fantasy is bad.<br/>
+        • Perfectionism — “either perfect or nothing” is not a mood, it's an operating principle.<br/>
+        • Don't ship broken. Better ship nothing. A mistake costs double.<br/>
+        • Open source is not charity. Quality costs money. Clean minimal code & design. No exceptions.<br/>
+        • No compromise on quality — I cut scope. Impossible conditions — impossible consequences.<br/>
+        • Systems over people — they don't lie. Not very social. By most criteria — not a good person.<br/>
+        • Rest means full shutdown. Total abstraction, conscious.<br/>
+        • No matter how wild the bull is — the can says “tushonka”.
       </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:15px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:12px;">━━━━✦ РУССКИЙ ✦━━━━</span>
-      <p style="margin:8px 0; font-size:13px; line-height:1.5; color:#c9d1d9;">
-        • Специализируюсь на <b>бэкенд-системах</b> и инфраструктуре.<br/>
-        • Проектирую распределенные сервисы, отказоустойчивость и безопасность.<br/>
-        • Разрабатываю масштабируемые open-source проекты.
+      <p style="margin:8px 0; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
+        • Работаю по заказам. В найм — только если зарплата начинается с e.<br/>
+        • Ненавижу Microsoft. Очень люблю деньги.<br/>
+        • Правила просты: один проеб — два зуба нахуй. Не терплю оправданий.<br/>
+        • Люблю монотонную и неинтересную работу, фантазия плохая.<br/>
+        • Перфекционизм — «либо идеально, либо никак». Это не настроение, а рабочий принцип.<br/>
+        • Сломанное не выпускаю. Лучше не выпущу ничего. Ошибка стоит вдвойне.<br/>
+        • Открытый код — не благотворительность. Качество стоит денег. Чистый минимализм. Без исключений.<br/>
+        • Не иду на компромисс с качеством — урезаю масштаб. Невозможные условия — невозможные последствия.<br/>
+        • Системы лучше людей — они не врут. Не очень социален. По большинству критериев — не хороший человек.<br/>
+        • Отдых — полное отключение. Абстрагация целиком, осознанно.<br/>
+        • Каким бы буйным ни был бык — на банке пишется «тушёнка».
       </p>
     </td>
     <td width="58%" valign="middle" align="center" style="padding:0 0 0 14px;">
