@@ -11,41 +11,51 @@
     <td width="42%" valign="middle" align="left" style="background:#0d1117; padding:16px 18px; border-radius:8px;">
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:15px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;">━━━━✦ ENGLISH ✦━━━━</span>
       <p style="margin:8px 0 4px; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
-        • Contract work. Full-time hire only if salary starts with <code style="font-family:Consolas,'Courier New',monospace;background:#161b22;padding:1px 5px;border-radius:4px;color:#d97757;font-size:12px;">5e+12</code>.<br/>
-        • Rules are simple: one fuck-up — two teeth gone, motherfucker. No excuses.<br/>
-        • Perfectionism — “either perfect or nothing” is not a mood, it's an operating principle.<br/>
-        • Don't ship broken. Better ship nothing. A mistake costs double.<br/>
-        • Open source is not charity. Quality costs money. Clean minimal code & design. No exceptions.<br/>
-        • No compromise on quality — I cut scope. Impossible conditions — impossible consequences.<br/>
-        • Systems over people — they don't lie.<br/>
-        • Rest means full shutdown. Total abstraction, conscious.<br/>
-        • No matter how wild the bull is — the can says “tushonka”.
+        • Work on orders. Hire only if salary starts with <code style="font-family:Consolas,'Courier New',monospace;background:#161b22;padding:1px 5px;border-radius:4px;color:#d97757;font-size:12px;">5e+12</code>.<br/>
+        • If you work with me the rules are simple "one fuck-up two teeth off motherfucker".<br/>
+        • Love monotonous and uninteresting work.<br/>
+        • Principle — "either perfect or nothing".<br/>
+        • Don't release broken. Better release nothing.<br/>
+        • A mistake costs double.<br/>
+        • Open code is not charity. Quality costs money.<br/>
+        • Clean minimalistic code and design. No exceptions.<br/>
+        • No compromise on quality. I cut scale.<br/>
+        • Impossible conditions — impossible consequences.<br/>
+        • Prefer systems to people — they don't lie.<br/>
+        • Rest means full shutdown. Abstraction in full, conscious.<br/>
+        • No matter how wild the bull is — the can says "tushonka".
       </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— short facts —</span>
       <p style="margin:4px 0 8px; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
         • I hate Microsoft.<br/>
         • I love money very much.<br/>
-        • Love monotonous and boring work, my fantasy is bad.<br/>
-        • Not very social. By most criteria — not a good person.
+        • Bad fantasy.<br/>
+        • Not very social.<br/>
+        • By most criteria not a good person.
       </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:15px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:12px;">━━━━✦ РУССКИЙ ✦━━━━</span>
       <p style="margin:8px 0 4px; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
         • Работаю по заказам. В найм — только если зарплата начинается с <code style="font-family:Consolas,'Courier New',monospace;background:#161b22;padding:1px 5px;border-radius:4px;color:#d97757;font-size:12px;">5e+12</code>.<br/>
-        • Правила просты: один проеб — два зуба нахуй. Не терплю оправданий.<br/>
-        • Перфекционизм — «либо идеально, либо никак». Это не настроение, а рабочий принцип.<br/>
-        • Сломанное не выпускаю. Лучше не выпущу ничего. Ошибка стоит вдвойне.<br/>
-        • Открытый код — не благотворительность. Качество стоит денег. Чистый минимализм. Без исключений.<br/>
-        • Не иду на компромисс с качеством — урезаю масштаб. Невозможные условия — невозможные последствия.<br/>
-        • Системы лучше людей — они не врут.<br/>
-        • Отдых — полное отключение. Абстрагация целиком, осознанно.<br/>
+        • Если работаешь со мной то правила просты "один проеб два зуба нахуй".<br/>
+        • Люблю монотоную и неинтересную работу.<br/>
+        • Принцип — «либо идеально, либо никак».<br/>
+        • Не выпускаю сломанное. Лучше не выпущу ничего.<br/>
+        • Ошибка стоит вдвойне.<br/>
+        • Открытый код — не благотворительность. Качество стоит денег.<br/>
+        • Чистый минималистичный код и дизайн. Без исключений.<br/>
+        • Не иду на компромисс с качеством. Урезаю масштаб.<br/>
+        • Невозможные условия — невозможные последствия.<br/>
+        • Предпочитаю системы людям — они не врут.<br/>
+        • Отдых значит полное отключение. Абстрагация целиком, осознанно.<br/>
         • Каким бы буйным ни был бык — на банке пишется «тушёнка».
       </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— короткие факты —</span>
       <p style="margin:4px 0 8px; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
         • Ненавижу Microsoft.<br/>
         • Очень люблю деньги.<br/>
-        • Люблю монотонную и неинтересную работу, фантазия плохая.<br/>
-        • Не очень социален. По большинству критериев — не хороший человек.
+        • Плохая фантазия.<br/>
+        • Не очень социален.<br/>
+        • По большинству критериев не хороший человек.
       </p>
     </td>
     <td width="58%" valign="middle" align="center" style="padding:0 0 0 14px;">
