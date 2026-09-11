@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/KurumaOfficial">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20%26%20Infrastructure%20Developer;Scalable%20Systems%20%26%20High-Performance%20Services;Building%20WetID%2C%20Delta%20%26%20Wettea%20Ecosystem;Always%20learning%2C%20optimizing%20%26%20shipping&font=Consolas&center=true&width=560&height=45&color=d97757&vCenter=true&pause=1000&size=19" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=%D0%9B%D0%B8%D0%B1%D0%BE%20%D0%B8%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%20%D0%BB%D0%B8%D0%B1%D0%BE%20%D0%BD%D0%B8%D0%BA%D0%B0%D0%BA;Either%20perfect%20or%20nothing&font=Consolas&center=true&width=560&height=45&color=d97757&vCenter=true&pause=1000&size=19" alt="Typing SVG" />
   </a>
 </p>
 
