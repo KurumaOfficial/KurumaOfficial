@@ -59,43 +59,47 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=go" alt="Go" width="60" height="60" />
+      <img src="./assets/icons/go.svg" alt="Go" width="60" height="60" />
       <br>Go
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="60" height="60" />
+      <img src="./assets/icons/rust.svg" alt="Rust" width="60" height="60" />
       <br>Rust
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="60" height="60" />
+      <img src="./assets/icons/kotlin.svg" alt="Kotlin" width="60" height="60" />
       <br>Kotlin
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <img src="./assets/icons/python.svg" alt="Python" width="60" height="60" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" height="60" />
+      <img src="./assets/icons/ts.svg" alt="TypeScript" width="60" height="60" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="60" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="gRPC / REST" />
-      <br>gRPC / REST
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-      <br>Docker
+      <img src="./assets/icons/java.svg" alt="Java" width="60" height="60" />
+      <br>Java
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <img src="./assets/icons/html.svg" alt="HTML" width="48" height="48" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/css.svg" alt="CSS" width="48" height="48" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="gRPC / REST" />
+      <br>gRPC / REST
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
@@ -104,6 +108,8 @@
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
       <br>Kafka
@@ -127,10 +133,6 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
       <br>SQLite
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
     </td>
   </tr>
 </table>
