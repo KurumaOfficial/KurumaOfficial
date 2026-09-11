@@ -223,9 +223,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Paint.NET-3399CC?style=for-the-badge&logo=paintdotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Paint.NET-3399CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPGcgZmlsbD0nI2ZmZic%2BPHJlY3QgeD0nMTAuNScgeT0nMicgd2lkdGg9JzMnIGhlaWdodD0nMTEnIHJ4PScxLjUnIHRyYW5zZm9ybT0ncm90YXRlKDM1IDEyIDEyKScvPjxwYXRoIGQ9J003IDE1bDUgMi00IDRjLTEgMS0yLjUuNS0zLTFsLTEtMmMtLjMtMSAuNS0yLjUgMy0zeicvPjwvZz48L3N2Zz4%3D&logoColor=white" />
   <img src="https://img.shields.io/badge/DaVinci_Resolve-596073?style=for-the-badge&logo=davinciresolve&logoColor=white" />
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHRleHQgeD0nMTInIHk9JzE3JyBmb250LWZhbWlseT0nQXJpYWwnIGZvbnQtc2l6ZT0nMTMnIGZvbnQtd2VpZ2h0PSdib2xkJyB0ZXh0LWFuY2hvcj0nbWlkZGxlJyBmaWxsPScjMDAwMDVCJz5BZTwvdGV4dD48L3N2Zz4%3D&logoColor=white" />
 </p>
 
 </details>
