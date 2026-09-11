@@ -1,4 +1,5 @@
-<img src="./assets/banner.svg" alt="Kuruma" width="100%"/>
+<img src="./assets/banner.svg#gh-dark-mode-only" alt="Kuruma" width="100%"/>
+<img src="./assets/banner-light.svg#gh-light-mode-only" alt="Kuruma" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/KurumaOfficial">
