@@ -153,7 +153,7 @@
 
 ## Образование
 
-- 📖 **Information Technology & Software Engineering**\
+- 📖 **IM — Informasjonsteknologi og medieproduksjon**\
   📆 2026 - 2030\
   📍 **Sentrum videregående skole** - Kongsvinger, Norway
 
