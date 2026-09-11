@@ -196,11 +196,18 @@
   <summary><b>💻 Workspace & Environment</b></summary>
   <br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/OS-Windows%20%2F%20Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code%20%2F%20GoLand-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-PowerShell%20%2F%20Zsh-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Theme-Dark%20Terracotta-d97757?style=for-the-badge" />
+<p align="center">
+  🖥️ Desktop<br/><br/>
+  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Ryzen_7_7700X_5.5GHz-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-32GB_DDR5_6000MTs-0071C5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NVIDIA-RTX_5070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+<p align="center">
+  🛠️ Editors<br/><br/>
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/JetBrains-Full_Pack-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
 </p>
 
 </details>
