@@ -40,15 +40,10 @@
 
 ---
 
-> Хочешь знать, над чем я сейчас работаю?\
-> Активный роадмап и проекты ниже:
+> Работаю по заказам и строю закрытую инфраструктуру — тут нет туториальных клонов.\
+> Обычный день: высоконагруженные заказы (например портал Delta Client на 300к+ Minecraft-пользователей), закрытая экосистема [`Wettea`](https://wettea.net) и инструменты [`Aleph Studio`](https://aleph.icu), плюс неанонсированный Holo-проект.
 >
-> *PS: Building scalable backend infrastructure and robust distributed services !*
-> - [x] [`Wettea`](https://wettea.net) — Центральная экосистема и шлюз, без публичного репозитория
-> - [x] [`Aleph Studio`](https://aleph.icu) — Креативная студия и инструменты
-> - [ ] [`Holo Project`](#) — Не анонсирован, в работе
-> - [x] [`Delta Media`](https://github.com/KurumaOfficial/Delta-Media) — Заказ от Delta Client, крупный Minecraft-проект, 300к+ пользователей
-> - [x] [`Strange Visuals`](https://github.com/KurumaOfficial/Strange-Visuals) — Продолжение заброшенного визуального мода
+> *Публичный код — исключение, а не правило: ниже два репозитория, которые могу показать. Всё остальное уезжает клиентам, а не на GitHub.*
 
 ---
 
@@ -143,10 +138,8 @@
 
 | Проект | Описание | Стек | Статус / Репозиторий |
 | :--- | :--- | :--- | :--- |
-| **[WetID](https://github.com/KurumaOfficial/WetID)** | Production-ready identity and authentication system with enterprise controls and security audits. | `Go` `PostgreSQL` `Supabase` `Cloudflare` | [![Stars](https://img.shields.io/github/stars/KurumaOfficial/WetID?style=flat-square&color=d97757)](https://github.com/KurumaOfficial/WetID) |
-| **[Delta Media Portal](https://github.com/KurumaOfficial/Delta_Client_Media_Portal)** | Fast media processing portal & recode daemon with high concurrency. | `Go` `Kotlin` `Docker` | [![Stars](https://img.shields.io/github/stars/KurumaOfficial/Delta_Client_Media_Portal?style=flat-square&color=d97757)](https://github.com/KurumaOfficial/Delta_Client_Media_Portal) |
-| **[wettea.net](https://wettea.net)** | Main public platform, developer hub and service gateway. | `Cloudflare` `TLS` `API` | ![Status](https://img.shields.io/badge/Live-d97757?style=flat-square) |
-| **[Aleph Studio](https://aleph.icu)** | Creative technology studio for bespoke digital products. | `Go` `Web` `Infra` | ![Status](https://img.shields.io/badge/Active-d97757?style=flat-square) |
+| **[Delta Media](https://github.com/KurumaOfficial/Delta-Media)** | Портал медиа-партнёрства и модерации для Delta Client: вход по ключам, Telegram 2FA с GPS, USDT-выплаты через CryptoBot. | `Go` `Fiber` `PostgreSQL` `Telegram API` | [![Stars](https://img.shields.io/github/stars/KurumaOfficial/Delta-Media?style=flat-square&color=d97757)](https://github.com/KurumaOfficial/Delta-Media) |
+| **[Strange Visuals](https://github.com/KurumaOfficial/Strange-Visuals)** | Оживший заброшенный визуальный мод для Minecraft Fabric (1.21.8): система плащей, клиентский рендер, Java 21. | `Java` `Fabric` `Gradle` | [![Stars](https://img.shields.io/github/stars/KurumaOfficial/Strange-Visuals?style=flat-square&color=d97757)](https://github.com/KurumaOfficial/Strange-Visuals) |
 
 </details>
 

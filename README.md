@@ -40,15 +40,10 @@
 
 ---
 
-> Want to know what I'm currently working on ?\
-> Checkout my active roadmap and projects below:
-> 
-> *PS: Building scalable backend infrastructure and robust distributed services !*
-> - [x] [`Wettea`](https://wettea.net) — Central ecosystem and gateway, no public repo
-> - [x] [`Aleph Studio`](https://aleph.icu) — Creative studio & tools
-> - [ ] [`Holo Project`](#) — Unannounced, in progress
-> - [x] [`Delta Media`](https://github.com/KurumaOfficial/Delta-Media) — Custom order for Delta Client, large Minecraft project, 300k+ users
-> - [x] [`Strange Visuals`](https://github.com/KurumaOfficial/Strange-Visuals) — Continued fork of abandoned visual mod
+> I take freelance orders and build private infrastructure — nothing here is a tutorial clone.\
+> Day to day: high-load orders (e.g. the Delta Client portal serving 300k+ Minecraft users), the closed [`Wettea`](https://wettea.net) ecosystem and [`Aleph Studio`](https://aleph.icu) tooling, plus the unannounced Holo project.
+>
+> *Public code is the exception, not the rule — the two repos below are what I can show. Everything else ships to clients, not to GitHub.*
 
 ---
 
@@ -143,10 +138,8 @@
 
 | Project | Description | Stack | Status / Repository |
 | :--- | :--- | :--- | :--- |
-| **[WetID](https://github.com/KurumaOfficial/WetID)** | Production-ready identity and authentication system with enterprise controls and security audits. | `Go` `PostgreSQL` `Supabase` `Cloudflare` | [![Stars](https://img.shields.io/github/stars/KurumaOfficial/WetID?style=flat-square&color=d97757)](https://github.com/KurumaOfficial/WetID) |
-| **[Delta Media Portal](https://github.com/KurumaOfficial/Delta_Client_Media_Portal)** | Fast media processing portal & recode daemon with high concurrency. | `Go` `Kotlin` `Docker` | [![Stars](https://img.shields.io/github/stars/KurumaOfficial/Delta_Client_Media_Portal?style=flat-square&color=d97757)](https://github.com/KurumaOfficial/Delta_Client_Media_Portal) |
-| **[wettea.net](https://wettea.net)** | Main public platform, developer hub and service gateway. | `Cloudflare` `TLS` `API` | ![Status](https://img.shields.io/badge/Live-d97757?style=flat-square) |
-| **[Aleph Studio](https://aleph.icu)** | Creative technology studio for bespoke digital products. | `Go` `Web` `Infra` | ![Status](https://img.shields.io/badge/Active-d97757?style=flat-square) |
+| **[Delta Media](https://github.com/KurumaOfficial/Delta-Media)** | Media partnership & staff moderation portal for Delta Client: key-based auth, Telegram 2FA with GPS, USDT payouts via CryptoBot. | `Go` `Fiber` `PostgreSQL` `Telegram API` | [![Stars](https://img.shields.io/github/stars/KurumaOfficial/Delta-Media?style=flat-square&color=d97757)](https://github.com/KurumaOfficial/Delta-Media) |
+| **[Strange Visuals](https://github.com/KurumaOfficial/Strange-Visuals)** | Revived abandoned Minecraft Fabric visual mod (1.21.8): cape system, client-side rendering, Java 21. | `Java` `Fabric` `Gradle` | [![Stars](https://img.shields.io/github/stars/KurumaOfficial/Strange-Visuals?style=flat-square&color=d97757)](https://github.com/KurumaOfficial/Strange-Visuals) |
 
 </details>
 
