@@ -40,10 +40,15 @@
 
 ---
 
-> Работаю по заказам и строю закрытую инфраструктуру — тут нет туториальных клонов.\
-> Обычный день: высоконагруженные заказы (например портал Delta Client на 300к+ Minecraft-пользователей), закрытая экосистема [`Wettea`](https://wettea.net) и инструменты [`Aleph Studio`](https://aleph.icu), плюс неанонсированный Holo-проект.
+> Хочешь знать, над чем я сейчас работаю?\
+> Активный роадмап и проекты ниже:
 >
-> *Публичный код — исключение, а не правило: ниже два репозитория, которые могу показать. Всё остальное уезжает клиентам, а не на GitHub.*
+> *PS: Building scalable backend infrastructure and robust distributed services !*
+> - [x] [`Wettea`](https://wettea.net) — Центральная экосистема и шлюз, без публичного репозитория
+> - [x] [`Aleph Studio`](https://aleph.icu) — Креативная студия и инструменты
+> - [ ] [`Holo Project`](#) — Не анонсирован, в работе
+> - [x] [`Delta Media`](https://github.com/KurumaOfficial/Delta-Media) — Заказ от Delta Client, крупный Minecraft-проект, 300к+ пользователей
+> - [x] [`Strange Visuals`](https://github.com/KurumaOfficial/Strange-Visuals) — Продолжение заброшенного визуального мода
 
 ---
 
@@ -216,8 +221,8 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kuruma's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=KurumaOfficial&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=d97757&icon_color=d97757&text_color=c9d1d9" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kuruma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurumaOfficial&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=d97757&text_color=c9d1d9&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kuruma's Github Stats" src="https://github-stats-extended.vercel.app/api?username=KurumaOfficial&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=d97757&icon_color=d97757&text_color=c9d1d9" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kuruma's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=KurumaOfficial&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=d97757&text_color=c9d1d9&hide=Jupyter%20Notebook" height="192px"/></a>
   </p>
 
   <h3>📈 График активности</h3>
