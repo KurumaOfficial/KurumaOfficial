@@ -225,12 +225,12 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kuruma's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=KurumaOfficial&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=d97757&text_color=c9d1d9&hide=Jupyter%20Notebook" height="192px"/></a>
   </p>
 
-  <h3>📈 Activity Graph</h3>
+  <h3>⚡ Recent Activity</h3>
 
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <p align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Kuruma's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=KurumaOfficial&bg_color=0d1117&color=d97757&line=d97757&point=FFFFFF&area=true&hide_border=true" /></a>
-  </p>
+  <!-- https://github.com/Readme-Workflows/recent-activity -->
+  <!--RECENT_ACTIVITY:start-->
+  <!--RECENT_ACTIVITY:end-->
+  <!--RECENT_ACTIVITY:last_update-->
 
 </details>
 
