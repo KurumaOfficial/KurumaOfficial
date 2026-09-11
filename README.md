@@ -226,16 +226,16 @@
   <h3>📈 Contribution Chart</h3>
 
   <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
-  <p align="center">
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Kuruma's Contribution Chart" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurumaOfficial&theme=github_dark" /></a>
-  </p>
-
-  <h3>🕓 Productive Time</h3>
-
-  <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
-  <p align="center">
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Kuruma's Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KurumaOfficial&theme=github_dark&utcOffset=2" /></a>
-  </p>
+  <table>
+    <tr>
+      <td width="67%" align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Kuruma's Contribution Chart" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurumaOfficial&theme=github_dark" width="100%" /></a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Kuruma's Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KurumaOfficial&theme=github_dark&utcOffset=2" width="100%" /></a>
+      </td>
+    </tr>
+  </table>
 
 </details>
 
