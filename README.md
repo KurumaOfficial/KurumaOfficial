@@ -20,10 +20,7 @@
         • Open code is not charity. Quality costs money.<br/>
         • Clean minimalistic code and design. No exceptions.<br/>
         • No compromise on quality. I cut scale.<br/>
-        • Impossible conditions — impossible consequences.<br/>
-        • Prefer systems to people — they don't lie.<br/>
-        • Rest means full shutdown. Abstraction in full, conscious.<br/>
-        • No matter how wild the bull is — the can says "tushonka".
+        • Impossible conditions — impossible consequences.
       </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— short facts —</span>
       <p style="margin:4px 0 8px; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
@@ -44,10 +41,7 @@
         • Открытый код — не благотворительность. Качество стоит денег.<br/>
         • Чистый минималистичный код и дизайн. Без исключений.<br/>
         • Не иду на компромисс с качеством. Урезаю масштаб.<br/>
-        • Невозможные условия — невозможные последствия.<br/>
-        • Предпочитаю системы людям — они не врут.<br/>
-        • Отдых значит полное отключение. Абстрагация целиком, осознанно.<br/>
-        • Каким бы буйным ни был бык — на банке пишется «тушёнка».
+        • Невозможные условия — невозможные последствия.
       </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— короткие факты —</span>
       <p style="margin:4px 0 8px; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
