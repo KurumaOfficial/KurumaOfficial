@@ -218,6 +218,17 @@
   <img src="https://img.shields.io/badge/JetBrains-Full_Pack-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
 </p>
 
+<p align="center">
+  💾 Software<br/><br/>
+  <img src="https://img.shields.io/badge/Paint.NET-3399CC?style=for-the-badge&logo=paintdotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-ED8626?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-596073?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-EA77FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+</p>
+
 </details>
 
 <details>
