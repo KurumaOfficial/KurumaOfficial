@@ -28,7 +28,7 @@
         • I really love money.<br/>
         • Bad imagination.<br/>
         • Not very sociable.<br/>
-        • By most standards — not a good person.
+        • Bad person.
       </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:15px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:12px;">━━━━✦ РУССКИЙ ✦━━━━</span>
       <p style="margin:8px 0 4px; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
@@ -49,7 +49,7 @@
         • Очень люблю деньги.<br/>
         • Плохая фантазия.<br/>
         • Не очень социален.<br/>
-        • По большинству критериев не хороший человек.
+        • Плохой человек.
       </p>
     </td>
     <td width="58%" valign="middle" align="center" style="padding:0 0 0 14px;">
