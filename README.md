@@ -9,25 +9,33 @@
 <table style="border-collapse:separate; border-spacing:0 0;">
   <tr>
     <td width="42%" valign="middle" align="left" style="background:#0d1117; padding:16px 18px; border-radius:8px;">
-      <p style="margin:8px 0 4px; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
+      <p style="margin:8px 0 4px; font-size:13px; line-height:1.6; color:#c9d1d9;">
         • I take freelance orders. Full-time — only if salary starts with <code style="font-family:Consolas,'Courier New',monospace;background:#161b22;padding:1px 5px;border-radius:4px;color:#d97757;font-size:12px;">5e+12</code>.<br/>
         • If you work with me, the rules are simple: "one fuck-up — two teeth out, motherfucker".<br/>
         • I love monotonous and boring work.<br/>
+        • I write books and stories.<br/>
         • The principle — “either perfect or nothing”.<br/>
         • I don't ship broken. Better ship nothing.<br/>
         • A mistake costs you double.<br/>
         • Open source is not charity. Quality costs money.<br/>
         • Clean minimalist code and design. No exceptions.<br/>
+        • Minimalist everywhere, not just in code.<br/>
         • No compromise on quality. I cut scope.<br/>
-        • Impossible conditions — impossible consequences.
+        • Impossible conditions — impossible consequences.<br/>
+        • Deadlines are sacred — while the conditions hold.<br/>
+        • No calls, no meetings. Text only.<br/>
+        • I reply slowly. Always to the point.<br/>
+        • I don't work for exposure.<br/>
+        • One task at a time.
       </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— short facts —</span>
-      <p style="margin:4px 0 8px; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
+      <p style="margin:4px 0 8px; font-size:13px; line-height:1.6; color:#c9d1d9;">
         • I hate Microsoft.<br/>
         • I really love money.<br/>
         • Bad imagination.<br/>
         • Not very sociable.<br/>
-        • Bad person.
+        • Bad person.<br/>
+        • Quiet by default.
       </p>
     </td>
     <td width="58%" valign="middle" align="center" style="padding:0 0 0 14px;">

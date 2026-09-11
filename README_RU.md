@@ -9,25 +9,33 @@
 <table style="border-collapse:separate; border-spacing:0 0;">
   <tr>
     <td width="42%" valign="middle" align="left" style="background:#0d1117; padding:16px 18px; border-radius:8px;">
-      <p style="margin:8px 0 4px; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
+      <p style="margin:8px 0 4px; font-size:13px; line-height:1.6; color:#c9d1d9;">
         • Работаю по заказам. В найм — только если зарплата начинается с <code style="font-family:Consolas,'Courier New',monospace;background:#161b22;padding:1px 5px;border-radius:4px;color:#d97757;font-size:12px;">5e+12</code>.<br/>
         • Если работаешь со мной то правила просты "один проеб два зуба нахуй".<br/>
         • Люблю монотоную и неинтересную работу.<br/>
+        • Пишу книги и истории.<br/>
         • Принцип — «либо идеально, либо никак».<br/>
         • Не выпускаю сломанное. Лучше не выпущу ничего.<br/>
         • Ошибка стоит вдвойне.<br/>
         • Открытый код — не благотворительность. Качество стоит денег.<br/>
         • Чистый минималистичный код и дизайн. Без исключений.<br/>
+        • Минимализм везде, а не только в коде.<br/>
         • Не иду на компромисс с качеством. Урезаю масштаб.<br/>
-        • Невозможные условия — невозможные последствия.
+        • Невозможные условия — невозможные последствия.<br/>
+        • Дедлайны святы — пока соблюдены условия.<br/>
+        • Без звонков и митингов. Только текст.<br/>
+        • Отвечаю медленно. Всегда по делу.<br/>
+        • За «опыт» и «рекомендации» не работаю.<br/>
+        • Одна задача за раз.
       </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— короткие факты —</span>
-      <p style="margin:4px 0 8px; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
+      <p style="margin:4px 0 8px; font-size:13px; line-height:1.6; color:#c9d1d9;">
         • Ненавижу Microsoft.<br/>
         • Очень люблю деньги.<br/>
         • Плохая фантазия.<br/>
         • Не очень социален.<br/>
-        • Плохой человек.
+        • Плохой человек.<br/>
+        • Тихий по умолчанию.
       </p>
     </td>
     <td width="58%" valign="middle" align="center" style="padding:0 0 0 14px;">
