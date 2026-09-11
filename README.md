@@ -108,8 +108,6 @@
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
       <br>Kafka
