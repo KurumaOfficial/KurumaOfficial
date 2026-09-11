@@ -82,22 +82,22 @@
       <img src="./assets/icons/java.svg" alt="Java" width="60" height="60" />
       <br>Java
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
-      <img src="./assets/icons/html.svg" alt="HTML" width="48" height="48" />
+      <img src="./assets/icons/html.svg" alt="HTML" width="60" height="60" />
       <br>HTML
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/css.svg" alt="CSS" width="48" height="48" />
+      <img src="./assets/icons/css.svg" alt="CSS" width="60" height="60" />
       <br>CSS
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="gRPC / REST" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="gRPC / REST" />
       <br>gRPC / REST
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="96">
