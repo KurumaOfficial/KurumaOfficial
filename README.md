@@ -159,36 +159,16 @@
 
 ## Experience
 
+<!-- To add a new job, copy the block below: badges on the right, role, dates, place, bullet points -->
+
 <img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
 
-- 👨‍💻 **Backend & Systems Developer**\
-  📆 2024 - Present\
-  📍 **Wettea Ecosystem** - Remote
-  - Designed and deployed scalable authentication & identity services (`WetID`).
-  - Architected PostgreSQL database schemas and automated migrations.
-
-<br/>
-
-<img align="right" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-
-- 👨‍💻 **Core Developer**\
-  📆 2023 - Present\
-  📍 **Delta Media & Open-Source** - Remote
-  - High-throughput media portal recode & client backend daemon.
-  - Containerized deployment workflows and microservices.
-
-<br/>
-
-<img align="right" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-<img align="right" src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
-
-- 🛠️ **Infrastructure & Systems Engineer**\
-  📆 2023 - Present\
-  📍 **Aleph Studio & Self-Hosted Clusters** - Remote
-  - Multi-node cluster configuration, edge routing, and Cloudflare security.
+- 👨‍💻 **Freelance Backend Developer**\
+  📆 2026 - Present\
+  📍 **Custom Orders** - Remote
+  - Media partnership & moderation portal for Delta Client (300k+ users): key-based auth, Telegram 2FA with GPS, USDT payouts.
+  - Go (Fiber) services with SQLite / PostgreSQL, vanilla JS glassmorphic SPA, chunked uploads for large evidence files.
 
 </details>
 
