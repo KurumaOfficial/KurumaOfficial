@@ -26,6 +26,14 @@
         • No calls, no meetings. Text only.<br/>
         • I reply slowly. Always to the point.<br/>
         • I don't work for exposure.<br/>
+        • I don't do free test tasks.<br/>
+        • Prepayment first, work after.<br/>
+        • The price is fixed once.<br/>
+        • I read logs before asking.<br/>
+        • If it's not written down, it doesn't exist.<br/>
+        • I delete what I don't use.<br/>
+        • Old code gets rewritten, not patched forever.<br/>
+        • I don't chase trends.<br/>
         • One task at a time.
       </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— short facts —</span>
@@ -35,7 +43,9 @@
         • Bad imagination.<br/>
         • Not very sociable.<br/>
         • Bad person.<br/>
-        • Quiet by default.
+        • Quiet by default.<br/>
+        • Rarely online.<br/>
+        • Short answers, long code.
       </p>
     </td>
     <td width="58%" valign="middle" align="center" style="padding:0 0 0 14px;">
