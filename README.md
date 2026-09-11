@@ -217,6 +217,11 @@
     </a>
   </p>
 
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kuruma's Github Stats" src="https://github-stats-extended.vercel.app/api?username=KurumaOfficial&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=d97757&icon_color=d97757&text_color=c9d1d9" height="192px"/></a>
+  </p>
+
   <h3>📈 Contribution Chart</h3>
 
   <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
