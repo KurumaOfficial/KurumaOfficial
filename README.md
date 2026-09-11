@@ -11,7 +11,7 @@
     <td width="42%" valign="middle" align="left" style="background:#0d1117; padding:16px 18px; border-radius:8px;">
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:15px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;">━━━━✦ ENGLISH ✦━━━━</span>
       <p style="margin:8px 0; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
-        • Contract work. Full-time hire only if salary starts with e.<br/>
+        • Contract work. Full-time hire only if salary starts with <code style="font-family:Consolas,'Courier New',monospace;background:#161b22;padding:1px 5px;border-radius:4px;color:#d97757;font-size:12px;">5e+12</code>.<br/>
         • I hate Microsoft. I love money very much.<br/>
         • Rules are simple: one fuck-up — two teeth gone, motherfucker. No excuses.<br/>
         • Love monotonous and boring work, my fantasy is bad.<br/>
@@ -25,7 +25,7 @@
       </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:15px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:12px;">━━━━✦ РУССКИЙ ✦━━━━</span>
       <p style="margin:8px 0; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
-        • Работаю по заказам. В найм — только если зарплата начинается с e.<br/>
+        • Работаю по заказам. В найм — только если зарплата начинается с <code style="font-family:Consolas,'Courier New',monospace;background:#161b22;padding:1px 5px;border-radius:4px;color:#d97757;font-size:12px;">5e+12</code>.<br/>
         • Ненавижу Microsoft. Очень люблю деньги.<br/>
         • Правила просты: один проеб — два зуба нахуй. Не терплю оправданий.<br/>
         • Люблю монотонную и неинтересную работу, фантазия плохая.<br/>
