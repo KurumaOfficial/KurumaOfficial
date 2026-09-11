@@ -60,17 +60,9 @@
 ---
 
 > Want to work with me? Ping me on Telegram — [@Kuruma31](https://t.me/Kuruma31). Text only, no calls.\
-> First message: task, scope, deadline, budget. Messages with just "hi" are ignored.\
-> I reply slowly, always to the point, in English or Russian.\
-> The price is fixed once. Haggling after the deal is not a thing, rush orders cost extra.\
-> Prepayment first, work after. No prepayment, no slot — I take few orders at a time.\
-> Scope changed mid-work? The order restarts from estimation with a new price.\
-> During work there are no standups and no progress pings. You get the result, not a diary.\
-> I ship or I ship nothing. Broken doesn't leave my machine.\
-> You get the code and short setup notes. You test, you confirm, the order is closed.\
-> My bugs get fixed, your new ideas are a new order.\
-> Done work lives in support mode. New scope is a new order, with a new price and a new queue slot.\
-> No calls, no meetings, no free test tasks. I can refuse any order without explaining why.
+> First message: task, scope, deadline, budget. Prepayment first, work after.
+>
+> *How an order goes: messages with just "hi" are ignored. I reply slowly, always to the point, in English or Russian. The price is fixed once — haggling after the deal is not a thing, rush orders cost extra. No prepayment, no slot, I take few orders at a time. Scope changed mid-work? The order restarts from estimation with a new price. During work there are no standups and no progress pings — you get the result, not a diary. I ship or I ship nothing, broken doesn't leave my machine. You get the code and short setup notes: you test, you confirm, the order is closed. My bugs get fixed, your new ideas are a new order. Done work lives in support mode, new scope is a new order with a new price and a new queue slot. No calls, no meetings, no free test tasks — I can refuse any order without explaining why.*
 
 ---
 
