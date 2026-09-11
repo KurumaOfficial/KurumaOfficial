@@ -53,7 +53,7 @@
       </p>
     </td>
     <td width="58%" valign="middle" align="center" style="padding:0 0 0 14px;">
-      <img src="./assets/snow_bg11.gif" alt="snow" width="100%" style="border-radius:8px;"/>
+      <img src="./assets/waifu.gif" alt="waifu" width="100%" style="border-radius:8px;"/>
     </td>
   </tr>
 </table>
