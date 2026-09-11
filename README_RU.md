@@ -225,6 +225,20 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kuruma's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=KurumaOfficial&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=d97757&text_color=c9d1d9&hide=Jupyter%20Notebook" height="192px"/></a>
   </p>
 
+  <h3>📈 График контрибуций</h3>
+
+  <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+  <p align="center">
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Kuruma's Contribution Chart" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurumaOfficial&theme=github_dark" /></a>
+  </p>
+
+  <h3>🕓 Продуктивное время</h3>
+
+  <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+  <p align="center">
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Kuruma's Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KurumaOfficial&theme=github_dark&utcOffset=2" /></a>
+  </p>
+
   <h3>⚡ Недавняя активность</h3>
 
   <!-- https://github.com/Readme-Workflows/recent-activity -->
