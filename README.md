@@ -64,12 +64,11 @@
 > Checkout my active roadmap and projects below:
 > 
 > *PS: Building scalable backend infrastructure and robust distributed services !*
-> - [x] [`WetID`](https://github.com/KurumaOfficial/WetID) — Identity & Auth microservice powered by Go, Supabase & Cloudflare
-> - [x] [`Delta Media`](https://github.com/KurumaOfficial/Delta_Client_Media_Portal) — High-throughput media portal & recode daemon
-> - [x] [`wettea.xyz`](https://wettea.xyz) — Central gateway and web infrastructure
-> - [x] [`aleph.icu`](https://aleph.icu) — Next-gen creative studio & tools
-> - [ ] [`Distributed Mesh`](https://github.com/KurumaOfficial) — Event-driven pipelines with Kafka, Redis and gRPC
->   - → *Actively optimizing service latency and cluster security (2026)*
+> - [x] [`Wettea`](https://wettea.xyz) — Central ecosystem and gateway, no public repo
+> - [x] [`Aleph Studio`](https://aleph.icu) — Creative studio & tools
+> - [ ] [`Holo Project`](#) — Unannounced, in progress
+> - [x] [`Delta Media`](https://github.com/KurumaOfficial/Delta-Media) — Custom order for Delta Client, large Minecraft project, 300k+ users
+> - [x] [`Strange Visuals`](https://github.com/KurumaOfficial/Strange-Visuals) — Continued fork of abandoned visual mod
 
 ---
 
