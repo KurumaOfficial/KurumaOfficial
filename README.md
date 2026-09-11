@@ -64,7 +64,7 @@
 > Checkout my active roadmap and projects below:
 > 
 > *PS: Building scalable backend infrastructure and robust distributed services !*
-> - [x] [`Wettea`](https://wettea.xyz) — Central ecosystem and gateway, no public repo
+> - [x] [`Wettea`](https://wettea.net) — Central ecosystem and gateway, no public repo
 > - [x] [`Aleph Studio`](https://aleph.icu) — Creative studio & tools
 > - [ ] [`Holo Project`](#) — Unannounced, in progress
 > - [x] [`Delta Media`](https://github.com/KurumaOfficial/Delta-Media) — Custom order for Delta Client, large Minecraft project, 300k+ users
@@ -165,7 +165,7 @@
 | :--- | :--- | :--- | :--- |
 | **[WetID](https://github.com/KurumaOfficial/WetID)** | Production-ready identity and authentication system with enterprise controls and security audits. | `Go` `PostgreSQL` `Supabase` `Cloudflare` | [![Stars](https://img.shields.io/github/stars/KurumaOfficial/WetID?style=flat-square&color=d97757)](https://github.com/KurumaOfficial/WetID) |
 | **[Delta Media Portal](https://github.com/KurumaOfficial/Delta_Client_Media_Portal)** | Fast media processing portal & recode daemon with high concurrency. | `Go` `Kotlin` `Docker` | [![Stars](https://img.shields.io/github/stars/KurumaOfficial/Delta_Client_Media_Portal?style=flat-square&color=d97757)](https://github.com/KurumaOfficial/Delta_Client_Media_Portal) |
-| **[wettea.xyz](https://wettea.xyz)** | Main public platform, developer hub and service gateway. | `Cloudflare` `TLS` `API` | ![Status](https://img.shields.io/badge/Live-d97757?style=flat-square) |
+| **[wettea.net](https://wettea.net)** | Main public platform, developer hub and service gateway. | `Cloudflare` `TLS` `API` | ![Status](https://img.shields.io/badge/Live-d97757?style=flat-square) |
 | **[Aleph Studio](https://aleph.icu)** | Creative technology studio for bespoke digital products. | `Go` `Web` `Infra` | ![Status](https://img.shields.io/badge/Active-d97757?style=flat-square) |
 
 </details>
@@ -259,7 +259,7 @@
 ---
 
 <p align="center">
-  <a href="https://wettea.xyz"><img src="https://img.shields.io/badge/-1d1d1b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTMuNSAzLjUgOCAyMCAxMiA5LjUgMTYgMjAgMjAuNSAzLjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2Q5Nzc1NyIgc3Ryb2tlLXdpZHRoPSI0LjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg==&style=flat-square" alt="Wettea"/></a>
+  <a href="https://wettea.net"><img src="https://img.shields.io/badge/-1d1d1b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTMuNSAzLjUgOCAyMCAxMiA5LjUgMTYgMjAgMjAuNSAzLjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2Q5Nzc1NyIgc3Ryb2tlLXdpZHRoPSI0LjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg==&style=flat-square" alt="Wettea"/></a>
   <a href="https://aleph.icu"><img src="https://img.shields.io/badge/-1d1d1b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMy41IiB5PSIzLjUiIHdpZHRoPSIxNyIgaGVpZ2h0PSIxNyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDk3NzU3IiBzdHJva2Utd2lkdGg9IjIuNSIvPjwvc3ZnPg==&style=flat-square" alt="Aleph Studio"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-1d1d1b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDMgMjIgMjFIMloiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2Q5Nzc1NyIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=&style=flat-square" alt="Holo Project"/></a>
 </p>
