@@ -59,10 +59,10 @@
 
 ---
 
-> Want to know what I'm currently working on ?\
-> Checkout my active roadmap and projects below:
-> 
-> *PS: Building scalable backend infrastructure and robust distributed services !*
+> Want to work with me? Ping me on Telegram — [@KurumaSeal](https://t.me/KurumaSeal). Text only, no calls.\
+> First message: task, scope, deadline, budget. Prepayment first, work after.
+>
+> *PS: Right now — Holo (unannounced) plus private Wettea tooling. Shipped work is in support mode.*
 > - [x] [`Wettea`](https://wettea.net) — Central ecosystem and gateway, no public repo
 > - [x] [`Aleph Studio`](https://aleph.icu) — Creative studio & tools
 > - [ ] [`Holo Project`](#) — Unannounced, in progress
