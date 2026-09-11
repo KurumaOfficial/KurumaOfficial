@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/KurumaOfficial">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Either%20perfect%20or%20nothing&font=Consolas&center=true&width=560&height=45&color=d97757&vCenter=true&pause=1000&size=19" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=%D0%9B%D0%B8%D0%B1%D0%BE%20%D0%B8%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%20%D0%BB%D0%B8%D0%B1%D0%BE%20%D0%BD%D0%B8%D0%BA%D0%B0%D0%BA&font=Consolas&center=true&width=560&height=45&color=d97757&vCenter=true&pause=1000&size=19" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,24 +10,24 @@
   <tr>
     <td width="42%" valign="middle" align="left" style="background:#0d1117; padding:16px 18px; border-radius:8px;">
       <p style="margin:8px 0 4px; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
-        • I take freelance orders. Full-time — only if salary starts with <code style="font-family:Consolas,'Courier New',monospace;background:#161b22;padding:1px 5px;border-radius:4px;color:#d97757;font-size:12px;">5e+12</code>.<br/>
-        • If you work with me, the rules are simple: "one fuck-up — two teeth out, motherfucker".<br/>
-        • I love monotonous and boring work.<br/>
-        • The principle — “either perfect or nothing”.<br/>
-        • I don't ship broken. Better ship nothing.<br/>
-        • A mistake costs you double.<br/>
-        • Open source is not charity. Quality costs money.<br/>
-        • Clean minimalist code and design. No exceptions.<br/>
-        • No compromise on quality. I cut scope.<br/>
-        • Impossible conditions — impossible consequences.
+        • Работаю по заказам. В найм — только если зарплата начинается с <code style="font-family:Consolas,'Courier New',monospace;background:#161b22;padding:1px 5px;border-radius:4px;color:#d97757;font-size:12px;">5e+12</code>.<br/>
+        • Если работаешь со мной то правила просты "один проеб два зуба нахуй".<br/>
+        • Люблю монотоную и неинтересную работу.<br/>
+        • Принцип — «либо идеально, либо никак».<br/>
+        • Не выпускаю сломанное. Лучше не выпущу ничего.<br/>
+        • Ошибка стоит вдвойне.<br/>
+        • Открытый код — не благотворительность. Качество стоит денег.<br/>
+        • Чистый минималистичный код и дизайн. Без исключений.<br/>
+        • Не иду на компромисс с качеством. Урезаю масштаб.<br/>
+        • Невозможные условия — невозможные последствия.
       </p>
-      <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— short facts —</span>
+      <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— короткие факты —</span>
       <p style="margin:4px 0 8px; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
-        • I hate Microsoft.<br/>
-        • I really love money.<br/>
-        • Bad imagination.<br/>
-        • Not very sociable.<br/>
-        • Bad person.
+        • Ненавижу Microsoft.<br/>
+        • Очень люблю деньги.<br/>
+        • Плохая фантазия.<br/>
+        • Не очень социален.<br/>
+        • Плохой человек.
       </p>
     </td>
     <td width="58%" valign="middle" align="center" style="padding:0 0 0 14px;">
@@ -36,25 +36,25 @@
   </tr>
 </table>
 
-<p align="center"><sub>Russian version: <a href="./README_RU.md">README_RU.md</a></sub></p>
+<p align="center"><sub>Английская версия: <a href="./README.md">README.md</a></sub></p>
 
 ---
 
-> Want to know what I'm currently working on ?\
-> Checkout my active roadmap and projects below:
-> 
+> Хочешь знать, над чем я сейчас работаю?\
+> Активный роадмап и проекты ниже:
+>
 > *PS: Building scalable backend infrastructure and robust distributed services !*
-> - [x] [`Wettea`](https://wettea.net) — Central ecosystem and gateway, no public repo
-> - [x] [`Aleph Studio`](https://aleph.icu) — Creative studio & tools
-> - [ ] [`Holo Project`](#) — Unannounced, in progress
-> - [x] [`Delta Media`](https://github.com/KurumaOfficial/Delta-Media) — Custom order for Delta Client, large Minecraft project, 300k+ users
-> - [x] [`Strange Visuals`](https://github.com/KurumaOfficial/Strange-Visuals) — Continued fork of abandoned visual mod
+> - [x] [`Wettea`](https://wettea.net) — Центральная экосистема и шлюз, без публичного репозитория
+> - [x] [`Aleph Studio`](https://aleph.icu) — Креативная студия и инструменты
+> - [ ] [`Holo Project`](#) — Не анонсирован, в работе
+> - [x] [`Delta Media`](https://github.com/KurumaOfficial/Delta-Media) — Заказ от Delta Client, крупный Minecraft-проект, 300к+ пользователей
+> - [x] [`Strange Visuals`](https://github.com/KurumaOfficial/Strange-Visuals) — Продолжение заброшенного визуального мода
 
 ---
 
-## My favorite tools and technologies ⚙️
+## Мои любимые инструменты и технологии ⚙️
 
-> Tools and technologies that I have worked with and am interested in
+> Инструменты и технологии, с которыми я работал и которые мне интересны
 
 <table>
   <tr>
@@ -138,10 +138,10 @@
 ---
 
 <details open>
-  <summary><b>📦 Featured Projects & Services</b></summary>
+  <summary><b>📦 Избранные проекты и сервисы</b></summary>
   <br/>
 
-| Project | Description | Stack | Status / Repository |
+| Проект | Описание | Стек | Статус / Репозиторий |
 | :--- | :--- | :--- | :--- |
 | **[WetID](https://github.com/KurumaOfficial/WetID)** | Production-ready identity and authentication system with enterprise controls and security audits. | `Go` `PostgreSQL` `Supabase` `Cloudflare` | [![Stars](https://img.shields.io/github/stars/KurumaOfficial/WetID?style=flat-square&color=d97757)](https://github.com/KurumaOfficial/WetID) |
 | **[Delta Media Portal](https://github.com/KurumaOfficial/Delta_Client_Media_Portal)** | Fast media processing portal & recode daemon with high concurrency. | `Go` `Kotlin` `Docker` | [![Stars](https://img.shields.io/github/stars/KurumaOfficial/Delta_Client_Media_Portal?style=flat-square&color=d97757)](https://github.com/KurumaOfficial/Delta_Client_Media_Portal) |
@@ -151,15 +151,15 @@
 </details>
 
 <details>
-  <summary><b>📃 Resume</b></summary>
+  <summary><b>📃 Резюме</b></summary>
 
-## Education
+## Образование
 
 - 📖 **Information Technology & Software Engineering**\
   📆 2026 - 2030\
   📍 **Sentrum videregående skole** - Kongsvinger, Norway
 
-## Experience
+## Опыт
 
 <img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
@@ -195,7 +195,7 @@
 </details>
 
 <details>
-  <summary><b>💻 Workspace & Environment</b></summary>
+  <summary><b>💻 Рабочее место и окружение</b></summary>
   <br/>
 
 <p align="left">
@@ -208,9 +208,9 @@
 </details>
 
 <details>
-  <summary><b>📊 Stats and Activity</b></summary>
+  <summary><b>📊 Статистика и активность</b></summary>
 
-  <h3>🔥 Streak Stats</h3>
+  <h3>🔥 Серия</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p align="center">
@@ -219,7 +219,7 @@
     </a>
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <h3>💻 Статистика GitHub</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <p align="center">
@@ -227,7 +227,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kuruma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurumaOfficial&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=d97757&text_color=c9d1d9&hide=Jupyter%20Notebook" height="192px"/></a>
   </p>
 
-  <h3>📈 Activity Graph</h3>
+  <h3>📈 График активности</h3>
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   <p align="center">
