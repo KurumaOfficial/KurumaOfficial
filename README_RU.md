@@ -59,11 +59,11 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/go-icon.svg" alt="Go" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=go" alt="Go" width="60" height="60" />
       <br>Go
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="Rust" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="60" height="60" />
       <br>Rust
     </td>
     <td align="center" width="96">
@@ -75,16 +75,16 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="TypeScript" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" height="60" />
       <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="60" />
+      <br>CSS
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="gRPC / REST" />
@@ -125,12 +125,12 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub Actions" />
-      <br>GitHub Actions
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+      <br>SQLite
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-      <br>Nginx
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
     </td>
   </tr>
 </table>
