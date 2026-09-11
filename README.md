@@ -11,24 +11,24 @@
     <td width="42%" valign="middle" align="left" style="background:#0d1117; padding:16px 18px; border-radius:8px;">
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:15px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;">━━━━✦ ENGLISH ✦━━━━</span>
       <p style="margin:8px 0 4px; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
-        • Work on orders. Hire only if salary starts with <code style="font-family:Consolas,'Courier New',monospace;background:#161b22;padding:1px 5px;border-radius:4px;color:#d97757;font-size:12px;">5e+12</code>.<br/>
-        • If you work with me the rules are simple "one fuck-up two teeth off motherfucker".<br/>
-        • Love monotonous and uninteresting work.<br/>
-        • Principle — "either perfect or nothing".<br/>
-        • Don't release broken. Better release nothing.<br/>
-        • A mistake costs double.<br/>
-        • Open code is not charity. Quality costs money.<br/>
-        • Clean minimalistic code and design. No exceptions.<br/>
-        • No compromise on quality. I cut scale.<br/>
+        • I take freelance orders. Full-time — only if salary starts with <code style="font-family:Consolas,'Courier New',monospace;background:#161b22;padding:1px 5px;border-radius:4px;color:#d97757;font-size:12px;">5e+12</code>.<br/>
+        • If you work with me, the rules are simple: "one fuck-up — two teeth out, motherfucker".<br/>
+        • I love monotonous and boring work.<br/>
+        • The principle — “either perfect or nothing”.<br/>
+        • I don't ship broken. Better ship nothing.<br/>
+        • A mistake costs you double.<br/>
+        • Open source is not charity. Quality costs money.<br/>
+        • Clean minimalist code and design. No exceptions.<br/>
+        • No compromise on quality. I cut scope.<br/>
         • Impossible conditions — impossible consequences.
       </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— short facts —</span>
       <p style="margin:4px 0 8px; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
         • I hate Microsoft.<br/>
-        • I love money very much.<br/>
-        • Bad fantasy.<br/>
-        • Not very social.<br/>
-        • By most criteria not a good person.
+        • I really love money.<br/>
+        • Bad imagination.<br/>
+        • Not very sociable.<br/>
+        • By most standards — not a good person.
       </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:15px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:12px;">━━━━✦ РУССКИЙ ✦━━━━</span>
       <p style="margin:8px 0 4px; font-size:12.5px; line-height:1.55; color:#c9d1d9;">
