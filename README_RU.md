@@ -36,6 +36,28 @@
         • Очень люблю деньги.<br/>
         • Спокоен и сдержан по натуре.
       </p>
+      <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— топ 10 аниме —</span>
+      <p style="margin:4px 0 8px; font-size:13px; line-height:1.6; color:#c9d1d9;">
+        1. Аниме #1<br/>
+        2. Аниме #2<br/>
+        3. Аниме #3<br/>
+        4. Аниме #4<br/>
+        5. Аниме #5<br/>
+        6. Аниме #6<br/>
+        7. Аниме #7<br/>
+        8. Аниме #8<br/>
+        9. Аниме #9<br/>
+        10. Аниме #10
+      </p>
+      <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— ссылки —</span>
+      <p style="margin:4px 0 8px; font-size:13px; line-height:1.6; color:#c9d1d9;">
+        • Telegram: <a href="https://t.me/Kuruma31" style="color:#d97757;text-decoration:none;">@Kuruma31</a><br/>
+        • Steam: <a href="#" style="color:#d97757;text-decoration:none;">Профиль Steam</a><br/>
+        • YouTube: <a href="#" style="color:#d97757;text-decoration:none;">Канал YouTube</a><br/>
+        • TikTok: <a href="#" style="color:#d97757;text-decoration:none;">TikTok</a><br/>
+        • Xbox: <a href="#" style="color:#d97757;text-decoration:none;">Gamertag</a><br/>
+        • X / Twitter: <a href="#" style="color:#d97757;text-decoration:none;">Профиль X</a>
+      </p>
     </td>
     <td width="58%" valign="middle" align="center" style="padding:0 0 0 14px;">
       <img src="./assets/waifu.gif" alt="waifu" width="100%" style="border-radius:8px;"/>
@@ -252,40 +274,6 @@
       </td>
     </tr>
   </table>
-
-</details>
-
-<details>
-  <summary><b>🎬 Топ-10 любимых аниме</b></summary>
-  <br/>
-
-| # | Название | Заметка |
-| :-: | :--- | :--- |
-| 1 | *Аниме #1* | — |
-| 2 | *Аниме #2* | — |
-| 3 | *Аниме #3* | — |
-| 4 | *Аниме #4* | — |
-| 5 | *Аниме #5* | — |
-| 6 | *Аниме #6* | — |
-| 7 | *Аниме #7* | — |
-| 8 | *Аниме #8* | — |
-| 9 | *Аниме #9* | — |
-| 10 | *Аниме #10* | — |
-
-</details>
-
-<details>
-  <summary><b>🌐 Контакты и соцсети</b></summary>
-  <br/>
-
-<p align="center">
-  <a href="https://t.me/Kuruma31"><img src="https://img.shields.io/badge/Telegram-@Kuruma31-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Steam-Профиль-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-Канал-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TikTok-Профиль-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Xbox-Профиль-107C10?style=for-the-badge&logo=xbox&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/X-Профиль-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
 
 </details>
 

@@ -36,6 +36,28 @@
         • I really love money.<br/>
         • Calm and focused by nature.
       </p>
+      <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— top 10 anime —</span>
+      <p style="margin:4px 0 8px; font-size:13px; line-height:1.6; color:#c9d1d9;">
+        1. Anime #1<br/>
+        2. Anime #2<br/>
+        3. Anime #3<br/>
+        4. Anime #4<br/>
+        5. Anime #5<br/>
+        6. Anime #6<br/>
+        7. Anime #7<br/>
+        8. Anime #8<br/>
+        9. Anime #9<br/>
+        10. Anime #10
+      </p>
+      <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— links —</span>
+      <p style="margin:4px 0 8px; font-size:13px; line-height:1.6; color:#c9d1d9;">
+        • Telegram: <a href="https://t.me/Kuruma31" style="color:#d97757;text-decoration:none;">@Kuruma31</a><br/>
+        • Steam: <a href="#" style="color:#d97757;text-decoration:none;">Steam Profile</a><br/>
+        • YouTube: <a href="#" style="color:#d97757;text-decoration:none;">YouTube Channel</a><br/>
+        • TikTok: <a href="#" style="color:#d97757;text-decoration:none;">TikTok</a><br/>
+        • Xbox: <a href="#" style="color:#d97757;text-decoration:none;">Gamertag</a><br/>
+        • X / Twitter: <a href="#" style="color:#d97757;text-decoration:none;">Profile</a>
+      </p>
     </td>
     <td width="58%" valign="middle" align="center" style="padding:0 0 0 14px;">
       <img src="./assets/waifu.gif" alt="waifu" width="100%" style="border-radius:8px;"/>
@@ -252,40 +274,6 @@
       </td>
     </tr>
   </table>
-
-</details>
-
-<details>
-  <summary><b>🎬 Top 10 Favorite Anime</b></summary>
-  <br/>
-
-| # | Title | Note |
-| :-: | :--- | :--- |
-| 1 | *Anime #1* | — |
-| 2 | *Anime #2* | — |
-| 3 | *Anime #3* | — |
-| 4 | *Anime #4* | — |
-| 5 | *Anime #5* | — |
-| 6 | *Anime #6* | — |
-| 7 | *Anime #7* | — |
-| 8 | *Anime #8* | — |
-| 9 | *Anime #9* | — |
-| 10 | *Anime #10* | — |
-
-</details>
-
-<details>
-  <summary><b>🌐 Connect & Socials</b></summary>
-  <br/>
-
-<p align="center">
-  <a href="https://t.me/Kuruma31"><img src="https://img.shields.io/badge/Telegram-@Kuruma31-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Steam-Profile-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TikTok-Profile-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Xbox-Profile-107C10?style=for-the-badge&logo=xbox&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
 
 </details>
 
