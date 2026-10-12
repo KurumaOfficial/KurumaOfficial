@@ -12,7 +12,7 @@
     <td width="42%" valign="middle" align="left" style="background:#0d1117; padding:16px 18px; border-radius:8px;">
       <p style="margin:8px 0 4px; font-size:13px; line-height:1.6; color:#c9d1d9;">
         • I take freelance orders. Full-time — only if salary starts with <code style="font-family:Consolas,'Courier New',monospace;background:#161b22;padding:1px 5px;border-radius:4px;color:#d97757;font-size:12px;">5e+12</code>.<br/>
-        • If you work with me, the rules are simple: "one fuck-up — two teeth out, motherfucker".<br/>
+        • If you work with me, the rules are simple: "one fuck-up — two teeth out".<br/>
         • I love monotonous and boring work.<br/>
         • I write books and stories.<br/>
         • The principle — “either perfect or nothing”.<br/>
