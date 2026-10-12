@@ -25,14 +25,14 @@
         • Impossible conditions — impossible consequences.<br/>
         • Deadlines are sacred — while the conditions hold.<br/>
         • No calls, no meetings. Text only.<br/>
-        • I reply slowly. Always to the point.<br/>
+        • Thoughtful replies, strictly to the point.<br/>
         • I don't work for exposure.<br/>
         • I don't do free test tasks.<br/>
         • Prepayment first, work after.<br/>
         • The price is fixed once.<br/>
         • I read logs before asking.<br/>
         • If it's not written down, it doesn't exist.<br/>
-        • I delete what I don't use.<br/>
+        • Cut unused code and dead dependencies.<br/>
         • Old code gets rewritten, not patched forever.<br/>
         • I don't chase trends.<br/>
         • One task at a time.
@@ -44,9 +44,9 @@
         • Bad imagination.<br/>
         • Not very sociable.<br/>
         • Bad person.<br/>
-        • Quiet by default.<br/>
-        • Rarely online.<br/>
-        • Short answers, long code.
+        • Calm and focused by nature.<br/>
+        • In the terminal more than in feeds.<br/>
+        • Concise in words, thorough in code.
       </p>
     </td>
     <td width="58%" valign="middle" align="center" style="padding:0 0 0 14px;">
