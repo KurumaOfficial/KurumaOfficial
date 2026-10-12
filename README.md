@@ -14,23 +14,16 @@
         • I take freelance orders. Full-time — only if salary starts with <code style="font-family:Consolas,'Courier New',monospace;background:#161b22;padding:1px 5px;border-radius:4px;color:#d97757;font-size:12px;">5e+12</code>.<br/>
         • If you work with me, the rules are simple: "one fuck-up — two teeth out".<br/>
         • I love monotonous and boring work.<br/>
-        • I write books and stories.<br/>
         • The principle — “either perfect or nothing”.<br/>
         • I don't ship broken. Better ship nothing.<br/>
-        • A mistake costs you double.<br/>
         • Open source is not charity. Quality costs money.<br/>
         • Clean minimalist code and design. No exceptions.<br/>
         • Minimalist everywhere, not just in code.<br/>
         • No compromise on quality. I cut scope.<br/>
-        • Impossible conditions — impossible consequences.<br/>
         • Deadlines are sacred — while the conditions hold.<br/>
-        • No calls, no meetings. Text only.<br/>
-        • Thoughtful replies, strictly to the point.<br/>
         • I don't work for exposure.<br/>
         • I don't do free test tasks.<br/>
         • Prepayment first, work after.<br/>
-        • The price is fixed once.<br/>
-        • I read logs before asking.<br/>
         • If it's not written down, it doesn't exist.<br/>
         • Cut unused code and dead dependencies.<br/>
         • Old code gets rewritten, not patched forever.<br/>
@@ -41,12 +34,7 @@
       <p style="margin:4px 0 8px; font-size:13px; line-height:1.6; color:#c9d1d9;">
         • I hate Microsoft.<br/>
         • I really love money.<br/>
-        • Bad imagination.<br/>
-        • Not very sociable.<br/>
-        • Bad person.<br/>
-        • Calm and focused by nature.<br/>
-        • In the terminal more than in feeds.<br/>
-        • Concise in words, thorough in code.
+        • Calm and focused by nature.
       </p>
     </td>
     <td width="58%" valign="middle" align="center" style="padding:0 0 0 14px;">
@@ -59,10 +47,10 @@
 
 ---
 
-> Interested in collaborating? Reach out on Telegram — [@Kuruma31](https://t.me/Kuruma31). Text-only preferred.\
-> In your first message, please include the task overview, technical requirements, deadlines, and budget.
+> Want to get in touch or discuss a project? Reach out on Telegram — [@Kuruma31](https://t.me/Kuruma31). Text-only, no calls.\
+> In your first message, specify the task overview, technical requirements, timeline, and budget.
 >
-> *How I work: I prioritize async communication and focused deep work over lengthy calls. Each project starts with a clear scope definition and fixed milestones to avoid ambiguity. Development is centered on robust architecture, maintainable code, and high performance — whether it's backend services in Go, modding, or full-stack tooling. Once work begins, you receive well-tested increments and working deliverables rather than superficial status updates. Delivery includes clean source code, deployment notes, and documentation for a seamless handoff. Post-release support covers any unexpected issues, while additional features and major revisions are planned as separate phases. Available for select freelance contracts, challenging backend tasks, and ambitious open-source tooling.*
+> *About me & workflow: Introverted, sociophobic, and a quiet misanthrope by nature. I spend minimal time online and take time to reply to messages — prioritizing deep focus, solitude, and zero noise. In my spare time, I watch anime and rewatch legendary crime dramas: Better Call Saul, Breaking Bad, and The Sopranos. When it comes to engineering and freelance orders, I keep everything strictly pragmatic: no pointless calls, no standups, no wasted time. The deal is straightforward: clear technical requirements upfront, fixed scope and deadlines, prepayment first, followed by focused execution. You get finished, production-ready code with solid architecture and clear setup notes. Genuine bugs get resolved promptly; new features and scope additions are handled as subsequent phases.*
 
 ---
 
@@ -264,6 +252,40 @@
       </td>
     </tr>
   </table>
+
+</details>
+
+<details>
+  <summary><b>🎬 Top 10 Favorite Anime</b></summary>
+  <br/>
+
+| # | Title | Note |
+| :-: | :--- | :--- |
+| 1 | *Anime #1* | — |
+| 2 | *Anime #2* | — |
+| 3 | *Anime #3* | — |
+| 4 | *Anime #4* | — |
+| 5 | *Anime #5* | — |
+| 6 | *Anime #6* | — |
+| 7 | *Anime #7* | — |
+| 8 | *Anime #8* | — |
+| 9 | *Anime #9* | — |
+| 10 | *Anime #10* | — |
+
+</details>
+
+<details>
+  <summary><b>🌐 Connect & Socials</b></summary>
+  <br/>
+
+<p align="center">
+  <a href="https://t.me/Kuruma31"><img src="https://img.shields.io/badge/Telegram-@Kuruma31-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Steam-Profile-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TikTok-Profile-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Xbox-Profile-107C10?style=for-the-badge&logo=xbox&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
 
 </details>
 
