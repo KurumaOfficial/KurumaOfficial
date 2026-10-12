@@ -190,23 +190,31 @@
   <br/>
 
 <p align="center">
-  🖥️ Десктоп<br/><br/>
+  Десктоп<br/><br/>
   <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD-Ryzen_7_7700X_5.5GHz-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Ryzen_7_7700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-32GB_DDR5_6000MTs-0071C5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NVIDIA-RTX_5070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <p align="center">
-  💻 Ноутбук<br/><br/>
+  Ноутбук<br/><br/>
   <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel-Core_Ultra_5_225H-0068B5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB_5600MTs-0071C5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NVIDIA-RTX_PRO_500_6GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB_DDR5_5600MTs-0071C5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NVIDIA-RTX_PRO_500_Blackwell-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <p align="center">
-  💾 Софт<br/><br/>
+  Сервер<br/><br/>
+  <img src="https://img.shields.io/badge/OS-Linux_Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel-18_Cores_%2F_28_Threads_@_4.6GHz-0068B5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-48GB_DDR4_3200MTs-0071C5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Storage-1TB_SSD-0071C5?style=for-the-badge" />
+</p>
+
+<p align="center">
+  Софт<br/><br/>
   <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/JetBrains-Full_Pack-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
 </p>
