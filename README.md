@@ -59,10 +59,10 @@
 
 ---
 
-> Want to work with me? Ping me on Telegram — [@Kuruma31](https://t.me/Kuruma31). Text only, no calls.\
-> First message: task, scope, deadline, budget. Prepayment first, work after.
+> Interested in collaborating? Reach out on Telegram — [@Kuruma31](https://t.me/Kuruma31). Text-only preferred.\
+> In your first message, please include the task overview, technical requirements, deadlines, and budget.
 >
-> *How an order goes: messages with just "hi" are ignored. I reply slowly, always to the point, in English or Russian. The price is fixed once — haggling after the deal is not a thing, rush orders cost extra. No prepayment, no slot, I take few orders at a time. Scope changed mid-work? The order restarts from estimation with a new price. During work there are no standups and no progress pings — you get the result, not a diary. I ship or I ship nothing, broken doesn't leave my machine. You get the code and short setup notes: you test, you confirm, the order is closed. My bugs get fixed, your new ideas are a new order. Done work lives in support mode, new scope is a new order with a new price and a new queue slot. No calls, no meetings, no free test tasks — I can refuse any order without explaining why.*
+> *How I work: I prioritize async communication and focused deep work over lengthy calls. Each project starts with a clear scope definition and fixed milestones to avoid ambiguity. Development is centered on robust architecture, maintainable code, and high performance — whether it's backend services in Go, modding, or full-stack tooling. Once work begins, you receive well-tested increments and working deliverables rather than superficial status updates. Delivery includes clean source code, deployment notes, and documentation for a seamless handoff. Post-release support covers any unexpected issues, while additional features and major revisions are planned as separate phases. Available for select freelance contracts, challenging backend tasks, and ambitious open-source tooling.*
 
 ---
 
