@@ -38,16 +38,16 @@
       </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— top 10 anime —</span>
       <p style="margin:4px 0 8px; font-size:13px; line-height:1.6; color:#c9d1d9;">
-        1. Anime #1<br/>
-        2. Anime #2<br/>
-        3. Anime #3<br/>
-        4. Anime #4<br/>
-        5. Anime #5<br/>
-        6. Anime #6<br/>
-        7. Anime #7<br/>
-        8. Anime #8<br/>
-        9. Anime #9<br/>
-        10. Anime #10
+        1. DARLING in the FRANXX<br/>
+        2. Re:ZERO<br/>
+        3. Oshi No Ko<br/>
+        4. Fate Series<br/>
+        5. Mushoku Tensei<br/>
+        6. Spice and Wolf (2008)<br/>
+        7. Higurashi: When They Cry<br/>
+        8. Love, Chunibyo & Other Delusions!<br/>
+        9. Yosuga no Sora<br/>
+        10. Date A Live
       </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— links —</span>
       <p style="margin:4px 0 8px; font-size:13px; line-height:1.6; color:#c9d1d9;">
