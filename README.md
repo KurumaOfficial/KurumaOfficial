@@ -186,6 +186,7 @@
   📆 2026 - ???\
   📍 **Custom Orders** - Remote
   - Delta Media,
+  - Linken Visuals
 
 </details>
 
