@@ -30,12 +30,6 @@
         • I don't chase trends.<br/>
         • One task at a time.
       </p>
-      <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— short facts —</span>
-      <p style="margin:4px 0 8px; font-size:13px; line-height:1.6; color:#c9d1d9;">
-        • I hate Microsoft.<br/>
-        • I really love money.<br/>
-        • Calm and focused by nature.
-      </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— top 10 anime —</span>
       <p style="margin:4px 0 8px; font-size:13px; line-height:1.6; color:#c9d1d9;">
         1. DARLING in the FRANXX<br/>
@@ -72,7 +66,7 @@
 > Want to get in touch or discuss a project? Reach out on Telegram — [@Kuruma31](https://t.me/Kuruma31). Text-only, no calls.\
 > In your first message, specify the task overview, technical requirements, timeline, and budget.
 >
-> *About me & workflow: Introverted, sociophobic, and a quiet misanthrope by nature. I spend minimal time online and take time to reply to messages — prioritizing deep focus, solitude, and zero noise. In my spare time, I watch anime and rewatch legendary crime dramas: Better Call Saul, Breaking Bad, and The Sopranos. When it comes to engineering and freelance orders, I keep everything strictly pragmatic: no pointless calls, no standups, no wasted time. The deal is straightforward: clear technical requirements upfront, fixed scope and deadlines, prepayment first, followed by focused execution. You get finished, production-ready code with solid architecture and clear setup notes. Genuine bugs get resolved promptly; new features and scope additions are handled as subsequent phases.*
+> *About me & workflow: Introverted, sociophobic, and a quiet misanthrope by nature. I genuinely hate Microsoft, really love money, and prioritize solitude over unnecessary interactions. I spend minimal time online and take time to reply to messages — valuing deep focus and zero noise. In my spare time, I watch anime and rewatch legendary crime dramas: Better Call Saul, Breaking Bad, and The Sopranos. When it comes to engineering and freelance orders, I keep everything strictly pragmatic: no pointless calls, no standups, no wasted time. The deal is straightforward: clear technical requirements upfront, fixed scope and deadlines, prepayment first, followed by focused execution. You get finished, production-ready code with solid architecture and clear setup notes. Genuine bugs get resolved promptly; new features and scope additions are handled as subsequent phases.*
 
 ---
 
