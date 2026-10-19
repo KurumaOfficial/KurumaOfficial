@@ -17,8 +17,6 @@
         • The principle — “either perfect or nothing”.<br/>
         • I don't ship broken. Better ship nothing.<br/>
         • Open source is not charity. Quality costs money.<br/>
-        • Clean minimalist code and design. No exceptions.<br/>
-        • Minimalist everywhere, not just in code.<br/>
         • No compromise on quality. I cut scope.<br/>
         • Deadlines are sacred — while the conditions hold.<br/>
         • I don't work for exposure.<br/>
@@ -66,7 +64,7 @@
 > Want to get in touch or discuss a project? Reach out on Telegram — [@Kuruma31](https://t.me/Kuruma31). Text-only, no calls.\
 > In your first message, specify the task overview, technical requirements, timeline, and budget.
 >
-> *About me & workflow: Introverted, sociophobic, and a misanthrope by nature. I genuinely hate Microsoft, really love money, and prioritize solitude over unnecessary interactions. I spend minimal time online and take time to reply to messages — valuing deep focus and zero noise. In my spare time, I watch anime and rewatch legendary crime dramas: Better Call Saul, Breaking Bad, and The Sopranos. When it comes to engineering and freelance orders, I keep everything strictly pragmatic: no pointless calls, no standups, no wasted time. The deal is straightforward: clear technical requirements upfront, fixed scope and deadlines, prepayment first, followed by focused execution. You get finished, production-ready code with solid architecture and clear setup notes. Genuine bugs get resolved promptly; new features and scope additions are handled as subsequent phases.*
+> *About me & workflow: Introverted, sociophobic, and a misanthrope by nature. I genuinely hate Microsoft, really love money, and prioritize solitude over unnecessary interactions. I spend minimal time online and take time to reply to messages — valuing deep focus and zero noise. In my spare time, I watch anime and rewatch legendary crime dramas: Better Call Saul, Breaking Bad, and The Sopranos. I appreciate minimalism in everything — from visual style to clean architecture. When it comes to engineering and freelance orders, I keep everything strictly pragmatic: no pointless calls, no standups, no wasted time. The deal is straightforward: clear technical requirements upfront, fixed scope and deadlines, prepayment first, followed by focused execution. You get finished, production-ready code with solid architecture and clear setup notes. Genuine bugs get resolved promptly; new features and scope additions are handled as subsequent phases.*
 
 ---
 
