@@ -185,8 +185,7 @@
 - 👨‍💻 **Freelance Developer**\
   📆 2026 - ???\
   📍 **Custom Orders** - Remote
-  - Delta Media,
-  - Linken Visuals
+  - Delta Media, Linken Visuals
 
 </details>
 
