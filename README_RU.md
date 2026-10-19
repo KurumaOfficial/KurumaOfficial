@@ -47,7 +47,7 @@
         7. Higurashi: When They Cry<br/>
         8. Love, Chunibyo & Other Delusions!<br/>
         9. Yosuga no Sora<br/>
-        10. Date A Live
+        10. Another
       </p>
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— ссылки —</span>
       <p style="margin:4px 0 8px; font-size:13px; line-height:1.6; color:#c9d1d9;">
