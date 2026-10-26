@@ -222,6 +222,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/OpenCode-131010?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTM4NCA0MTZIMTI4Vjk2SDM4NFY0MTZaTTMyMCAxNjBIMTkyVjM1MkgzMjBWMTYwWiIvPjxwYXRoIGZpbGw9IiM4ODg4ODgiIGQ9Ik0zMjAgMjI0VjM1MkgxOTJWMjI0SDMyMFoiLz48L3N2Zz4=&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMjU2IDBjLTE0LjcgMC0yNi42IDExLjktMjYuNiAyNi42djIwMC43TDQ1LjQgNjkuOGMtMTAuNC0xMC40LTI3LjMtMTAuNC0zNy43IDBzLTEwLjQgMjcuMyAwIDM3LjdsMTg0LjUgMTU3LjVMNy43IDQyMi41Yy0xMC40IDEwLjQtMTAuNCAyNy4zIDAgMzcuN3MyNy4zIDEwLjQgMzcuNyAwbDE4NC0xNTcuNVY1MDNjMCAxNC43IDExLjkgMjYuNiAyNi42IDI2LjZzMjYuNi0xMS45IDI2LjYtMjYuNlYzMDIuN2wxODQgMTU3LjVjMTAuNCAxMC40IDI3LjMgMTAuNCAzNy43IDBzMTAuNC0yNy4zIDAtMzcuN0wzMjAuMyAyNjVsMTg0LjUtMTU3LjVjMTAuNC0xMC40IDEwLjQtMjcuMyAwLTM3LjdzLTI3LjMtMTAuNC0zNy43IDBMMjgyLjYgMjI3LjNWMjYuNkMyODIuNiAxMS45IDI3MC43IDAgMjU2IDB6Ii8+PC9zdmc+&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-ED8626?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Blockbench-0969DA?style=for-the-badge&logo=blockbench&logoColor=white" />
