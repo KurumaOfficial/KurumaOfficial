@@ -12,18 +12,14 @@
     <td width="42%" valign="middle" align="left" style="background:#0d1117; padding:16px 18px; border-radius:8px;">
       <p style="margin:8px 0 4px; font-size:13px; line-height:1.6; color:#c9d1d9;">
         • I take freelance orders. Full-time — only if salary starts with <code style="font-family:Consolas,'Courier New',monospace;background:#161b22;padding:1px 5px;border-radius:4px;color:#d97757;font-size:12px;">5e+12</code>.<br/>
-        • If you work with me, the rules are simple: "one fuck-up — two teeth out".<br/>
         • I love monotonous and boring work.<br/>
         • The principle — “either perfect or nothing”.<br/>
         • I don't ship broken. Better ship nothing.<br/>
         • Open source is not charity. Quality costs money.<br/>
         • No compromise on quality. I cut scope.<br/>
-        • Deadlines are sacred — while the conditions hold.<br/>
         • I don't work for exposure.<br/>
         • I don't do free test tasks.<br/>
         • Prepayment first, work after.<br/>
-        • If it's not written down, it doesn't exist.<br/>
-        • Cut unused code and dead dependencies.<br/>
         • Old code gets rewritten, not patched forever.<br/>
         • I don't chase trends.<br/>
         • One task at a time.
