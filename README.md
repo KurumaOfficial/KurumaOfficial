@@ -44,11 +44,11 @@
       <span style="display:block;font-family:Consolas,'Courier New',monospace;font-size:12px;color:#d97757;font-weight:600;letter-spacing:1px;text-align:center;margin-top:10px;opacity:0.9;">— links —</span>
       <p style="margin:4px 0 8px; font-size:13px; line-height:1.6; color:#c9d1d9;">
         • Telegram: <a href="https://t.me/Kuruma31" style="color:#d97757;text-decoration:none;">@Kuruma31</a><br/>
-        • Steam: <a href="#" style="color:#d97757;text-decoration:none;">Steam Profile</a><br/>
-        • YouTube: <a href="#" style="color:#d97757;text-decoration:none;">YouTube Channel</a><br/>
-        • TikTok: <a href="#" style="color:#d97757;text-decoration:none;">TikTok</a><br/>
-        • Xbox: <a href="#" style="color:#d97757;text-decoration:none;">Gamertag</a><br/>
-        • X / Twitter: <a href="#" style="color:#d97757;text-decoration:none;">Profile</a>
+        • Steam: <a href="https://steamcommunity.com/id/Kuruma_Official/" style="color:#d97757;text-decoration:none;">Kuruma_Official</a><br/>
+        • YouTube: <a href="https://www.youtube.com/@KurumaBestWaify" style="color:#d97757;text-decoration:none;">@KurumaBestWaify</a><br/>
+        • TikTok: <a href="https://www.tiktok.com/@kuruma3021" style="color:#d97757;text-decoration:none;">@kuruma3021</a><br/>
+        • Xbox: <a href="https://account.xbox.com/profile?gamertag=Kuruma31" style="color:#d97757;text-decoration:none;">Kuruma31</a><br/>
+        • X / Twitter: <a href="https://x.com/Kuruma_Official" style="color:#d97757;text-decoration:none;">@Kuruma_Official</a>
       </p>
     </td>
     <td width="58%" valign="middle" align="center" style="padding:0 0 0 14px;">
