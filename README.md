@@ -178,12 +178,13 @@
 <!-- To add a new job, copy the block below: badges on the right, role, dates, place, bullet points -->
 
 <img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
 
 - 👨‍💻 **Freelance Developer**\
   📆 2026 - ???\
   📍 **Custom Orders** - Remote
-  - Delta Media, Linken Visuals
+  - Delta Media (800$), Linken Visuals (40$)
 
 </details>
 
