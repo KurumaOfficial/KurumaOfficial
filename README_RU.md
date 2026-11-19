@@ -185,7 +185,7 @@
 - 👨‍💻 **Freelance Developer**\
   📆 2026 - ???\
   📍 **Custom Orders** - Remote
-  - Delta Media (800$), Linken Visuals (40$)
+  - ESTELAR MC ($\color{red}{\textsf{20\textdollar}}$ — Scam), Delta Media (800$), Linken Visuals (40$)
 
 </details>
 
